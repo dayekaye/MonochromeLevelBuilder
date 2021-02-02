@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 5983c0e79c3ce204a8951a47753bf966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1114123840958187631
+    second: rope_velvet_0
+  - first:
+      213: 976006797330870848
+    second: rope_velvet_1
+  - first:
+      213: -5344735440333811726
+    second: rope_velvet_2
+  - first:
+      213: -5197391223707695159
+    second: rope_velvet_3
+  - first:
+      213: 4750482537888700725
+    second: rope_velvet_4
+  - first:
+      213: 5523639847596213231
+    second: rope_velvet_5
+  - first:
+      213: -6215808346635520528
+    second: rope_velvet_6
+  - first:
+      213: 1798779887518546654
+    second: rope_velvet_7
+  - first:
+      213: 289173773537459559
+    second: rope_velvet_8
+  - first:
+      213: 6511011049546295419
+    second: rope_velvet_9
+  - first:
+      213: -3213543199684235344
+    second: rope_velvet_10
+  - first:
+      213: -8019692804931090078
+    second: rope_velvet_11
+  - first:
+      213: -3631089246667665337
+    second: rope_velvet_12
+  - first:
+      213: 2603072719134143610
+    second: rope_velvet_13
+  - first:
+      213: -218031578080314115
+    second: rope_velvet_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 168
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rope_velvet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f160068d4fb479439efd4221e0b98de
+      internalID: -1114123840958187631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea34e29f07d4f447952b576bce37939
+      internalID: 976006797330870848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb98f30a9c94646aa16621e8bac9b9
+      internalID: -5344735440333811726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa111055d20faba42888321a2f74594b
+      internalID: -5197391223707695159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea274b64db7884ca9d0eb2b494b3cc
+      internalID: 4750482537888700725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70345c7f8259ea148bbcc18f1d30301a
+      internalID: 5523639847596213231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b71438976fb2f418a4e22c4bd57153
+      internalID: -6215808346635520528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193d547235f9a647ad89d7b2abd3a79
+      internalID: 1798779887518546654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6919e033f197448a8a68027b6f8a0f
+      internalID: 289173773537459559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd39f07a19e3b4aa8d47ab2ddcb632
+      internalID: 6511011049546295419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8148c90613b13424ab8e5bc9cf6639b4
+      internalID: -3213543199684235344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f6cc5cb8ecbc4285501ee6b133f16
+      internalID: -8019692804931090078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe020a4e87e6a44a81313acc5021db5
+      internalID: -3631089246667665337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76e01805ce5374b811e768bca24a6d
+      internalID: 2603072719134143610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope_velvet_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0.75
+        width: 168.25
+        height: 168.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587298786005a3249ba119bd24c50b06
+      internalID: -218031578080314115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 875acc008b2da9a4683ff18987918375
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
