@@ -1,7 +1,28 @@
 fileFormatVersion: 2
 guid: 48418ae42b212524493c810592b6916c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2887406474485194298
+    second: dec_ottoHouse-basement-02_0
+  - first:
+      213: 7535604127249287294
+    second: dec_ottoHouse-basement-02_1
+  - first:
+      213: -4138294747314012675
+    second: dec_ottoHouse-basement-02_2
+  - first:
+      213: 6020071955106666496
+    second: dec_ottoHouse-basement-02_5
+  - first:
+      213: -4710085591425498141
+    second: dec_ottoHouse-basement-02_6
+  - first:
+      213: -6454697331301751497
+    second: dec_ottoHouse-basement-02_7
+  - first:
+      213: 4786710070743073697
+    second: dec_ottoHouse-basement-02_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +61,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +90,167 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 790
+        width: 671
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318cf909cb49f7479e2e55cc4a622a1
+      internalID: 2887406474485194298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 832
+        width: 500
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f5c04afd7b8f47ad42fb2ca8a332c
+      internalID: 7535604127249287294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_2
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 787
+        width: 574
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b939bf17f668449b1b8b6aaf6b52c
+      internalID: -4138294747314012675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 323
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d4e060a8072b4698a8e8ac9a8819e
+      internalID: 6020071955106666496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 335
+        width: 301
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c5498ebbd72146a97247b5984faff
+      internalID: -4710085591425498141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 111
+        width: 649
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ded0f42126a643b82b3e0c9750d02
+      internalID: -6454697331301751497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-02_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 18
+        width: 461
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50cc917ecb3432439c445fada5680a2
+      internalID: 4786710070743073697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
