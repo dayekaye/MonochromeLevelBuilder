@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: a5ae761eb02fe854892a9124bc49a5da
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5960286040677023668
+    second: dec_ottoHouse-basement-03_0
+  - first:
+      213: -564599338592746240
+    second: dec_ottoHouse-basement-03_1
+  - first:
+      213: -921552009778417832
+    second: dec_ottoHouse-basement-03_2
+  - first:
+      213: -5232584432133704926
+    second: dec_ottoHouse-basement-03_3
+  - first:
+      213: -7398002608833898142
+    second: dec_ottoHouse-basement-03_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +84,125 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-03_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1171
+        width: 681
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74feadf5ec3f0304ca8312c4b197aa60
+      internalID: -5960286040677023668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-03_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1179
+        width: 235
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2db225cc2bdae46b5bb6ede2461cd1
+      internalID: -564599338592746240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-03_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1041
+        width: 713
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28189166da99844fbeba60e0f7ede71
+      internalID: -921552009778417832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-03_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 55
+        width: 458
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d04096d1acbc4a9157395a4b780e7
+      internalID: -5232584432133704926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dec_ottoHouse-basement-03_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 26
+        width: 996
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1fcb4ee931c8145b0d4afc66e9e4f5
+      internalID: -7398002608833898142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
