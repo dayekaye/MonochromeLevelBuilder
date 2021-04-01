@@ -1,43 +1,34 @@
 fileFormatVersion: 2
-guid: 5e62111715da5e549adf5599768b6ccc
+guid: 204cdb36fdfcaa64f8955994e6b27a56
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1283929232885634389
-    second: ShippingContainer_Spritesheet5_0
+      213: -2276727481315760966
+    second: OctoBartender_Idle_01_0
   - first:
-      213: 1450707333673449609
-    second: ShippingContainer_Spritesheet5_1
+      213: 1414041475393325545
+    second: OctoBartender_Idle_01_1
   - first:
-      213: 7614764737830113813
-    second: ShippingContainer_Spritesheet5_2
+      213: 8337389188579267525
+    second: OctoBartender_Idle_01_2
   - first:
-      213: 3458612739102827651
-    second: ShippingContainer_Spritesheet5_3
+      213: -5093510197729035729
+    second: OctoBartender_Idle_01_3
   - first:
-      213: -941455148324786646
-    second: ShippingContainer_Spritesheet5_4
+      213: -4417497190974694386
+    second: OctoBartender_Idle_01_4
   - first:
-      213: -3379984180257339883
-    second: ShippingContainer_Spritesheet5_5
+      213: -1775822628881119945
+    second: OctoBartender_Idle_01_5
   - first:
-      213: -374567264727231890
-    second: ShippingContainer_Spritesheet5_6
+      213: -3210923833282298131
+    second: OctoBartender_Idle_01_6
   - first:
-      213: -4073188741544288266
-    second: ShippingContainer_Spritesheet5_7
+      213: 4875304441199201889
+    second: OctoBartender_Idle_01_7
   - first:
-      213: -6884629986392491520
-    second: ShippingContainer_Spritesheet5_8
-  - first:
-      213: -2495705531691215551
-    second: ShippingContainer_Spritesheet5_9
-  - first:
-      213: 6318159561286129823
-    second: ShippingContainer_Spritesheet5_10
-  - first:
-      213: -1970911351430564667
-    second: ShippingContainer_Spritesheet5_11
+      213: 7223803002977749192
+    second: OctoBartender_Idle_01_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -116,236 +107,227 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_0
+      name: OctoBartender_Idle_01_0
       rect:
         serializedVersion: 2
-        x: 135
-        y: 47
-        width: 1552
-        height: 2870
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cab430bb7213b5b4dbf7f02b44fd267b
-      internalID: 1283929232885634389
+      spriteID: 2eb67e95cd488b540a706243580f1bed
+      internalID: -2276727481315760966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_1
+      name: OctoBartender_Idle_01_1
       rect:
         serializedVersion: 2
-        x: 1763
-        y: 1761
-        width: 964
-        height: 1214
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c32c9edd8dcf894ebe8cd4007b2ff01
-      internalID: 1450707333673449609
+      spriteID: bba7a82ff05a9f8439aad6137b20d8b8
+      internalID: 1414041475393325545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_3
+      name: OctoBartender_Idle_01_2
       rect:
         serializedVersion: 2
-        x: 2763
-        y: 1953
-        width: 812
-        height: 1074
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a107f7dc070a3f41ade43e9651c07de
-      internalID: 3458612739102827651
+      spriteID: 0948d52db5d90da4aa5c048996544035
+      internalID: 8337389188579267525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_4
+      name: OctoBartender_Idle_01_3
       rect:
         serializedVersion: 2
-        x: 3013
-        y: 1643
-        width: 440
-        height: 284
+        x: 0
+        y: 640
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16dd01a2c9c40f48a38334b7ed1d696
-      internalID: -941455148324786646
+      spriteID: 6375a1b8cf7ea624f9903c4f88dd4015
+      internalID: -5093510197729035729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_5
+      name: OctoBartender_Idle_01_4
       rect:
         serializedVersion: 2
-        x: 1823
-        y: 1219
-        width: 402
-        height: 414
+        x: 640
+        y: 640
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2604331d8b5f5b04aaa2782f9c8e6a70
-      internalID: -3379984180257339883
+      spriteID: 527cc2dfd80c3a141ab2acd7a46d2887
+      internalID: -4417497190974694386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_6
+      name: OctoBartender_Idle_01_5
       rect:
         serializedVersion: 2
-        x: 2399
-        y: 1193
-        width: 418
-        height: 244
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e39cb1d891fd474d8d22bb545d0aed3
-      internalID: -374567264727231890
+      spriteID: b4af1519f0cac804494490329eb96a94
+      internalID: -1775822628881119945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_7
+      name: OctoBartender_Idle_01_6
       rect:
         serializedVersion: 2
-        x: 2896
-        y: 821
-        width: 503
-        height: 454
+        x: 0
+        y: 0
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b531b03dfacdad419772fee068e9d15
-      internalID: -4073188741544288266
+      spriteID: 9174a1c88e079e8409ea39e0cb727588
+      internalID: -3210923833282298131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_8
+      name: OctoBartender_Idle_01_7
       rect:
         serializedVersion: 2
-        x: 3457
-        y: 389
-        width: 552
-        height: 1167
+        x: 640
+        y: 0
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f44ab56fea1b6814daee9798542a9ec4
-      internalID: -6884629986392491520
+      spriteID: f8658df900152f144be27c94b60dc904
+      internalID: 4875304441199201889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_9
+      name: OctoBartender_Idle_01_8
       rect:
         serializedVersion: 2
-        x: 1815
-        y: 669
-        width: 542
-        height: 504
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45d3dfaa483fe7047b590903e0884c1c
-      internalID: -2495705531691215551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_10
-      rect:
-        serializedVersion: 2
-        x: 2465
-        y: 659
-        width: 344
-        height: 549
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94be918d9ccd8b34087fb55d3899d342
-      internalID: 6318159561286129823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ShippingContainer_Spritesheet5_11
-      rect:
-        serializedVersion: 2
-        x: 1879
-        y: 257
-        width: 1074
-        height: 366
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 546122ca50449a445b4c7658cb1cd0d9
-      internalID: -1970911351430564667
+      spriteID: 678a0743db806954b9226df29fed1e68
+      internalID: 7223803002977749192
       vertices: []
       indices: 
       edges: []
@@ -353,7 +335,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 34f309367456a8a49a7f4bd84ca37007
+    spriteID: 8d7064c4eae473d44b2603dd2ca12e34
     internalID: 0
     vertices: []
     indices: 
