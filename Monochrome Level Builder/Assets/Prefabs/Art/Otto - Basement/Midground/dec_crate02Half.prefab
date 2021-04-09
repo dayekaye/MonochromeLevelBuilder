@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8148847269290262779}
   - component: {fileID: 3008723356069008034}
-  - component: {fileID: 6094188473151166673}
+  - component: {fileID: -5961884656767850036}
   m_Layer: 0
-  m_Name: dec_ottoHouse-basement-01_9
+  m_Name: dec_crate02Half
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7876599502469715292}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.924, y: -5.587984, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.3189, y: 1.3189, z: 1.3189}
   m_Children: []
   m_Father: {fileID: 0}
@@ -81,16 +81,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!65 &6094188473151166673
-BoxCollider:
+--- !u!61 &-5961884656767850036
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7876599502469715292}
+  m_Enabled: 1
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.21}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.94140625, y: 0.9375}
+    newSize: {x: 0.94140625, y: 0.9375}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.94140625, y: 0.5924286, z: 0.2}
-  m_Center: {x: 0, y: -0.172536, z: 0}
+  m_Size: {x: 0.94140625, y: 0.55}
+  m_EdgeRadius: 0

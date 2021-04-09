@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7949045872044596566}
   - component: {fileID: 2547832697531379177}
-  - component: {fileID: 628506014341587151}
-  - component: {fileID: 2477377891752189777}
+  - component: {fileID: 3508937416230964407}
+  - component: {fileID: 564210210210028961}
   m_Layer: 0
-  m_Name: dec_ottoHouse-basement-05
+  m_Name: dec_ottoHouse-basement-utility00
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81,29 +81,55 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!65 &628506014341587151
-BoxCollider:
+--- !u!61 &3508937416230964407
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7116387824012220709}
+  m_Enabled: 1
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.94}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3, y: 4}
+    newSize: {x: 3, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 2.053544, z: 0.2}
-  m_Center: {x: 0, y: -0.973228, z: 0}
---- !u!65 &2477377891752189777
-BoxCollider:
+  m_Size: {x: 3, y: 2.07}
+  m_EdgeRadius: 0
+--- !u!61 &564210210210028961
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7116387824012220709}
+  m_Enabled: 1
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.76, y: -0.42}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3, y: 4}
+    newSize: {x: 3, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.4164411, y: 3.2412121, z: 0.20000003}
-  m_Center: {x: 0.7917798, y: -0.3793939, z: 0}
+  m_Size: {x: 1.42, y: 3.17}
+  m_EdgeRadius: 0

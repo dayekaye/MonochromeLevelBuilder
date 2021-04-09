@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 77a47b1e4fcaa3646ae9735e84a1b205
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1073587139529282021
+    second: laugheasyBarSpritesheet2_0
+  - first:
+      213: -5350363930141500622
+    second: laugheasyBarSpritesheet2_1
+  - first:
+      213: -8263180365354276672
+    second: laugheasyBarSpritesheet2_2
+  - first:
+      213: 8246052897904307890
+    second: laugheasyBarSpritesheet2_3
+  - first:
+      213: -5689576546544054709
+    second: laugheasyBarSpritesheet2_4
+  - first:
+      213: -6388991584059591565
+    second: laugheasyBarSpritesheet2_5
+  - first:
+      213: -3983816632042235490
+    second: laugheasyBarSpritesheet2_6
+  - first:
+      213: 23449672047516994
+    second: laugheasyBarSpritesheet2_7
+  - first:
+      213: 2435295635095778468
+    second: laugheasyBarSpritesheet2_8
+  - first:
+      213: 797404185636727953
+    second: laugheasyBarSpritesheet2_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +70,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +99,230 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 843
+        width: 1852
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c871f6313ba4c4e9736b945e839c93
+      internalID: -1073587139529282021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 1832
+        height: 795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528432042323324479c68bb466d4f497
+      internalID: -5350363930141500622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2322
+        width: 322
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e276297ae83ce4645982d45ff9215835
+      internalID: -8263180365354276672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1937
+        width: 206
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628798674a82dc4c83f24f8f027cc33
+      internalID: 8246052897904307890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2269
+        width: 114
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a9dd5bf3602f46add35315d0e321e
+      internalID: -5689576546544054709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2002
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c2e420bb6cfff4196c05140ac8e8e1
+      internalID: -6388991584059591565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1791
+        width: 451
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc2cf6c848b7d4da2633a351e29272
+      internalID: -3983816632042235490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2309
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fdb8f820364a4bbb93a262e44abe2
+      internalID: 23449672047516994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2292
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdd7142447fe4469f6f5c264f3a34d
+      internalID: 2435295635095778468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugheasyBarSpritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1961
+        width: 94
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2d838c54df374a8fada4e92ead9d8
+      internalID: 797404185636727953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

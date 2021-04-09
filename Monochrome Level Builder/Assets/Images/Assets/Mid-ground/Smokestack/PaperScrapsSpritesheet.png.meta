@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 7ee4edb961be280418fce8260a9daae2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2467775705325131277
+    second: PaperScrapsSpritesheet_0
+  - first:
+      213: 4151382781967133717
+    second: PaperScrapsSpritesheet_1
+  - first:
+      213: -4859165339476258901
+    second: PaperScrapsSpritesheet_2
+  - first:
+      213: 5533904915382061580
+    second: PaperScrapsSpritesheet_3
+  - first:
+      213: 53367712818654656
+    second: PaperScrapsSpritesheet_4
+  - first:
+      213: 6507318361820651077
+    second: PaperScrapsSpritesheet_5
+  - first:
+      213: 5223601897436735873
+    second: PaperScrapsSpritesheet_6
+  - first:
+      213: -853362940192755805
+    second: PaperScrapsSpritesheet_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +64,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +93,188 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 538
+        width: 197
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570a855c91c80445b611edc27420492
+      internalID: -2467775705325131277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 478
+        width: 264
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cea5e0622d0e4598ac485c2cd2a21
+      internalID: 4151382781967133717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 335
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06691754cd63792438c8f2923700b288
+      internalID: -4859165339476258901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 347
+        width: 179
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6573c9e55fd5e4d8af9eecedb363dc
+      internalID: 5533904915382061580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 561
+        width: 160
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b532bfe119c50b45be2aef493fbf561
+      internalID: 53367712818654656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 230
+        width: 253
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d60cdefd6b7a646a69764c8dcfd558
+      internalID: 6507318361820651077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510dc5f0e532854387814155698ec84
+      internalID: 5223601897436735873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperScrapsSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 286
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa544ebe949df145a8beee70089724f
+      internalID: -853362940192755805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

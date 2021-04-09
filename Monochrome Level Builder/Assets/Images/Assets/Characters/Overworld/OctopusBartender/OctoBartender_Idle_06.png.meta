@@ -1,7 +1,34 @@
 fileFormatVersion: 2
 guid: d4fc2ae9e3a71a8498a1f690dfa5fd4c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6730568272659703622
+    second: OctoBartender_Idle_06_0
+  - first:
+      213: 3158292795470885908
+    second: OctoBartender_Idle_06_1
+  - first:
+      213: -8989683810615877878
+    second: OctoBartender_Idle_06_2
+  - first:
+      213: 8370956938224803183
+    second: OctoBartender_Idle_06_3
+  - first:
+      213: 8079595335364318791
+    second: OctoBartender_Idle_06_4
+  - first:
+      213: 7329667509601064161
+    second: OctoBartender_Idle_06_5
+  - first:
+      213: 7077905613884606744
+    second: OctoBartender_Idle_06_6
+  - first:
+      213: -4179191710471567886
+    second: OctoBartender_Idle_06_7
+  - first:
+      213: 569402806413725690
+    second: OctoBartender_Idle_06_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -115,7 +142,196 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483839a747e726458fc57dae5b4b036
+      internalID: -6730568272659703622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97909a94ab4004e42aa1d71f903fc1eb
+      internalID: 3158292795470885908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99166d10525dcb44bc55152a5141a25
+      internalID: -8989683810615877878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e8113f8038c244684aa454470cb1cc
+      internalID: 8370956938224803183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e666e02a19be454b8e6355799ef5dc1
+      internalID: 8079595335364318791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066912fc984c8a4589d9d07ae9548bf
+      internalID: 7329667509601064161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd73c28826f0e44a2bb8e6f682ede7
+      internalID: 7077905613884606744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c004ecf3fac83046b1cedd92fc73d9b
+      internalID: -4179191710471567886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctoBartender_Idle_06_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ef1b451b23ab4b9a744872559eb4a
+      internalID: 569402806413725690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
