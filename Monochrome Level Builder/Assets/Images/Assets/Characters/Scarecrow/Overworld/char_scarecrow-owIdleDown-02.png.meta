@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: e765b157c63d0bd48b576e4f9552ded0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3832057609516100694
+    second: char_scarecrow-owIdleDown-02_0
+  - first:
+      213: 4543570842005729941
+    second: char_scarecrow-owIdleDown-02_1
+  - first:
+      213: 2736668264937342051
+    second: char_scarecrow-owIdleDown-02_2
+  - first:
+      213: 2819727105694394788
+    second: char_scarecrow-owIdleDown-02_3
+  - first:
+      213: 7656830140240058098
+    second: char_scarecrow-owIdleDown-02_4
+  - first:
+      213: 4447055655043125316
+    second: char_scarecrow-owIdleDown-02_5
+  - first:
+      213: 1253957097281009937
+    second: char_scarecrow-owIdleDown-02_6
+  - first:
+      213: 6554461064438333424
+    second: char_scarecrow-owIdleDown-02_7
+  - first:
+      213: 6065329486573645177
+    second: char_scarecrow-owIdleDown-02_8
+  - first:
+      213: -5382224765432256
+    second: char_scarecrow-owIdleDown-02_9
+  - first:
+      213: 1506786944134106228
+    second: char_scarecrow-owIdleDown-02_10
+  - first:
+      213: -2746747970136329962
+    second: char_scarecrow-owIdleDown-02_11
+  - first:
+      213: 1058022895039073934
+    second: char_scarecrow-owIdleDown-02_12
+  - first:
+      213: -8624386016772663497
+    second: char_scarecrow-owIdleDown-02_13
+  - first:
+      213: -82954794859628828
+    second: char_scarecrow-owIdleDown-02_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee271d4f43d263a4caf1a509f3258056
+      internalID: -3832057609516100694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027a4846ee13fe48bcdf97d9b90b251
+      internalID: 4543570842005729941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d00b7ae219152743841d4527aae9f2d
+      internalID: 2736668264937342051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b47bc7025d494f8b242b560fb32da
+      internalID: 2819727105694394788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3912052ca7414e809306c933b9e99
+      internalID: 7656830140240058098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff132afd40a394a94b6605e8a0271f
+      internalID: 4447055655043125316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82c7cd0802f7a4ab577864f528ed68
+      internalID: 1253957097281009937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c267a0c7b0ed48a5b636098a0d037
+      internalID: 6554461064438333424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443412b230b953458c1bc0b3b13fefb
+      internalID: 6065329486573645177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a8cc300b54f74189cce197ea4e1b7
+      internalID: -5382224765432256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2056a6ebff4ae4f92f885d23622c6b
+      internalID: 1506786944134106228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e620ec1bc10b8449a99320295ed2d5
+      internalID: -2746747970136329962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5772ee6d66644ead114efa8cbd5e1
+      internalID: 1058022895039073934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7149db9c34f8b844bfdcd1812f43ed3
+      internalID: -8624386016772663497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleDown-02_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76a6e7cfd1ab14b8e872b907409c56
+      internalID: -82954794859628828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d90875825f9a8ad4b9656ff48f5a644d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
