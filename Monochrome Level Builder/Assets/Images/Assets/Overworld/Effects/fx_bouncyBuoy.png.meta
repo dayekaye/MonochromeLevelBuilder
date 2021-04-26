@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 638ff3189b72d794fa5943ba42a9c980
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4062161403572784742
+    second: bouncy_buoy_v2_0
+  - first:
+      213: 6724250760432490499
+    second: bouncy_buoy_v2_1
+  - first:
+      213: -8330224436805466257
+    second: bouncy_buoy_v2_2
+  - first:
+      213: 3433172407329117138
+    second: bouncy_buoy_v2_3
+  - first:
+      213: 5468176388797545544
+    second: bouncy_buoy_v2_4
+  - first:
+      213: -6394510139639329011
+    second: bouncy_buoy_v2_5
+  - first:
+      213: 2746413867739902043
+    second: bouncy_buoy_v2_6
+  - first:
+      213: 7847311533224494531
+    second: bouncy_buoy_v2_7
+  - first:
+      213: -7066717907715247679
+    second: bouncy_buoy_v2_8
+  - first:
+      213: -7828694696957381271
+    second: bouncy_buoy_v2_9
+  - first:
+      213: -3157947336957163370
+    second: bouncy_buoy_v2_10
+  - first:
+      213: -2150752136840255764
+    second: bouncy_buoy_v2_11
+  - first:
+      213: 5372647361047818007
+    second: bouncy_buoy_v2_12
+  - first:
+      213: 3848512271462275001
+    second: bouncy_buoy_v2_13
+  - first:
+      213: -2750653928877781500
+    second: bouncy_buoy_v2_14
+  - first:
+      213: 1576234987509110879
+    second: bouncy_buoy_v2_15
+  - first:
+      213: -377072583826273850
+    second: bouncy_buoy_v2_16
+  - first:
+      213: -6183337790473954636
+    second: bouncy_buoy_v2_17
+  - first:
+      213: 5461556683332791432
+    second: bouncy_buoy_v2_18
+  - first:
+      213: 577114462599784057
+    second: bouncy_buoy_v2_19
+  - first:
+      213: 8368365330620498495
+    second: bouncy_buoy_v2_20
+  - first:
+      213: 6175615300854879024
+    second: bouncy_buoy_v2_21
+  - first:
+      213: 2894054718368536982
+    second: bouncy_buoy_v2_22
+  - first:
+      213: 4649776561917315171
+    second: bouncy_buoy_v2_23
+  - first:
+      213: -5192217041273523212
+    second: bouncy_buoy_v2_24
+  - first:
+      213: 5047697817073921262
+    second: bouncy_buoy_v2_25
+  - first:
+      213: -2661507169243069993
+    second: bouncy_buoy_v2_26
+  - first:
+      213: 1248217021641798957
+    second: bouncy_buoy_v2_27
+  - first:
+      213: 7836637429527116435
+    second: bouncy_buoy_v2_28
+  - first:
+      213: -23111999044743099
+    second: bouncy_buoy_v2_29
+  - first:
+      213: 5382936960155122383
+    second: bouncy_buoy_v2_30
+  - first:
+      213: 2104408552607625510
+    second: bouncy_buoy_v2_31
+  - first:
+      213: -325763138526156072
+    second: bouncy_buoy_v2_32
+  - first:
+      213: -3488119556866235080
+    second: bouncy_buoy_v2_33
+  - first:
+      213: -1047401680139964097
+    second: bouncy_buoy_v2_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e60c5b7e2ae5d4abf0d61caa16704f
+      internalID: -4062161403572784742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6144
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb2f0ccc241a747bff468e9781a118
+      internalID: 6724250760432490499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0c15e712a02c45a9d0b1d5082de95
+      internalID: -8330224436805466257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 6144
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff11bebf939514c9e907facd2fcc2a
+      internalID: 3433172407329117138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea629a0ab891b47a7528de3c179f11
+      internalID: 5468176388797545544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6276859488b64a95ae23619c1068b
+      internalID: -6394510139639329011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5120
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ca3989fbb8eb42809ea6102bdea28
+      internalID: 2746413867739902043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5310d584b680664dbdcc012483f42ca
+      internalID: 7847311533224494531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 5120
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb8de8f6d4d454b9ddd6267ea439a1
+      internalID: -7066717907715247679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296b69c878445f42b2a4c71a722a2a3
+      internalID: -7828694696957381271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9353046bb6f9643810e7831b078c26
+      internalID: -3157947336957163370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4096
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c214b1eb5dbc048b7faede4ae3ccb3
+      internalID: -2150752136840255764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa38b5bfd615114eaf4d972958c8b15
+      internalID: 5372647361047818007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 4096
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41900b20d90c04b9aac6539b0a7d5b
+      internalID: 3848512271462275001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9a79eb6b5e0948bac702835b839c6
+      internalID: -2750653928877781500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d23b2f066f63a4193996b28d5f3cd0
+      internalID: 1576234987509110879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804e0b308787074696cdaa615638f5b
+      internalID: -377072583826273850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650d14d12bc5ec46bae5bcc2b334101
+      internalID: -6183337790473954636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94e7c5c22a3e74294f009d8d973ca2
+      internalID: 5461556683332791432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3209e86a2d75f4a9c7ad4806b80e71
+      internalID: 577114462599784057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddbf6cbe00dc50479853ce42b070d14
+      internalID: 8368365330620498495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21678cee8f9db2c43abbb1b85e905246
+      internalID: 6175615300854879024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f935d5d4886e314380d8c82d2cd049f
+      internalID: 2894054718368536982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd09e2eaa606c4a9a7358748b89fd2
+      internalID: 4649776561917315171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa73d5c1bd85a4186a4401aa6562c6
+      internalID: -5192217041273523212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2032fc87c6725f342a7bf2b1a5e4d547
+      internalID: 5047697817073921262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3ec57108135d44890d869d9753d8b
+      internalID: -2661507169243069993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8e87743e9b1748889f5896a6eda31
+      internalID: 1248217021641798957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_28
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add2fab6cbc41f4a8607d661f33c8eb
+      internalID: 7836637429527116435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_29
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ec304b67963943b84fdd4f4a9247b
+      internalID: -23111999044743099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21421269b44f344ca3d7e215b7a48b8
+      internalID: 5382936960155122383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7618ed62d2da8542b86ea94d7e7941e
+      internalID: 2104408552607625510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_32
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620ac192f887364280c44130ee4c784
+      internalID: -325763138526156072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_33
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48987a0e2dbd41645833cf38f9eb315a
+      internalID: -3488119556866235080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncy_buoy_v2_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75b449061849a4a8b75a7d11eb089e
+      internalID: -1047401680139964097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9835abd477f5744b8450d01d4232fe3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
