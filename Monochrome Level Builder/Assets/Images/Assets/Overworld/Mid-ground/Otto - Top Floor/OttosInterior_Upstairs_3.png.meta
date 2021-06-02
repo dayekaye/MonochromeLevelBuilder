@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: b8d990d368a604645b0d0876111bb507
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8262585739814463262
+    second: OttosInterior_Upstairs_3_0
+  - first:
+      213: 5291525949671618641
+    second: OttosInterior_Upstairs_3_1
+  - first:
+      213: -5864974464162441957
+    second: OttosInterior_Upstairs_3_2
+  - first:
+      213: 8922157489926774786
+    second: OttosInterior_Upstairs_3_3
+  - first:
+      213: 2226178021905005713
+    second: OttosInterior_Upstairs_3_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -115,7 +130,112 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OttosInterior_Upstairs_3_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1919
+        width: 929
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379b5d0c0f1ab444868ae77305f0e04
+      internalID: -8262585739814463262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OttosInterior_Upstairs_3_1
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1877
+        width: 954
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974b549b60887848a816376f5f2a5b7
+      internalID: 5291525949671618641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OttosInterior_Upstairs_3_2
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1758
+        width: 1333
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f45fe67f8f8248b3e30c410f9b4bf
+      internalID: -5864974464162441957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OttosInterior_Upstairs_3_3
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 101
+        width: 1210
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab87520a0be8dc448f1efca799e9923
+      internalID: 8922157489926774786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OttosInterior_Upstairs_3_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 121
+        width: 1671
+        height: 1746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe63c1919b6e14fa59f11e5c26332a
+      internalID: 2226178021905005713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
