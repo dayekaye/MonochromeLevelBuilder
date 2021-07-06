@@ -1,43 +1,7 @@
 fileFormatVersion: 2
-guid: 34845822ec6906a49b9854a34fe22829
+guid: d0e41c8c292f9544a82b6752c552f660
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -8893607023464920376
-    second: Townsfolk 1 idle_spritesheet_0
-  - first:
-      213: -6188269450453502888
-    second: Townsfolk 1 idle_spritesheet_1
-  - first:
-      213: -7529171771069530045
-    second: Townsfolk 1 idle_spritesheet_2
-  - first:
-      213: 342632409605170678
-    second: Townsfolk 1 idle_spritesheet_3
-  - first:
-      213: 7209061469626858852
-    second: Townsfolk 1 idle_spritesheet_4
-  - first:
-      213: 1924219821644273589
-    second: Townsfolk 1 idle_spritesheet_5
-  - first:
-      213: -419710732679371330
-    second: Townsfolk 1 idle_spritesheet_6
-  - first:
-      213: -623409219414348071
-    second: Townsfolk 1 idle_spritesheet_7
-  - first:
-      213: 1005684311563053528
-    second: Townsfolk 1 idle_spritesheet_8
-  - first:
-      213: 7657842110323692980
-    second: Townsfolk 1 idle_spritesheet_9
-  - first:
-      213: 265977690771574461
-    second: Townsfolk 1 idle_spritesheet_10
-  - first:
-      213: 8679333647086202673
-    second: Townsfolk 1 idle_spritesheet_11
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -76,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,51 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -151,263 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a0b58dec0108a340be0b7be8e65f1e1
-      internalID: -8893607023464920376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d7c45e2577cde744abb9a71f8b3ce49
-      internalID: -6188269450453502888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94f91cf3e09b4f04faa366db7529c976
-      internalID: -7529171771069530045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1d9c331961c68f4d8f07d625bf24778
-      internalID: 342632409605170678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53a823d39d98b0e4aacee88df9c9c38f
-      internalID: 7209061469626858852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a3d280d006077144b17fe4f792e5d3f
-      internalID: 1924219821644273589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_6
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fe2c6be71c447d4cb9028a75ea3a997
-      internalID: -419710732679371330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_7
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 818fda8ed18a5384e8af6408cb68c2d3
-      internalID: -623409219414348071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 545d864fd50e544429cb9ec7064d1cbc
-      internalID: 1005684311563053528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_9
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 768
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 750c58c1f1c4a014882846ce5e1814a1
-      internalID: 7657842110323692980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_10
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 768
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a529115c1065ab4bb06e30204393ed5
-      internalID: 265977690771574461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Townsfolk 1 idle_spritesheet_11
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 768
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b646b59fba352345bb23202424df672
-      internalID: 8679333647086202673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a40037e4f7e9d0349ba19e0f5eb9880b
+    spriteID: e5fd1063e9caec146959ebd4c6c74bcb
     internalID: 0
     vertices: []
     indices: 
