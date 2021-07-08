@@ -1,37 +1,7 @@
 fileFormatVersion: 2
-guid: f614d2da1da52a348a475afd37beb0b0
+guid: b19e799260938bd468ff6e81afeb7b81
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 7868048141244751963
-    second: Scarecrow_Ow_SideWalk 1 (1)_0
-  - first:
-      213: 1387757704142182794
-    second: Scarecrow_Ow_SideWalk 1 (1)_1
-  - first:
-      213: 8204499154704778594
-    second: Scarecrow_Ow_SideWalk 1 (1)_2
-  - first:
-      213: 6258148853035313724
-    second: Scarecrow_Ow_SideWalk 1 (1)_3
-  - first:
-      213: -5339173502348831392
-    second: Scarecrow_Ow_SideWalk 1 (1)_4
-  - first:
-      213: 7238891898987414893
-    second: Scarecrow_Ow_SideWalk 1 (1)_5
-  - first:
-      213: 9179669602101485569
-    second: Scarecrow_Ow_SideWalk 1 (1)_6
-  - first:
-      213: -6927831945505268390
-    second: Scarecrow_Ow_SideWalk 1 (1)_7
-  - first:
-      213: -6559271491883322136
-    second: Scarecrow_Ow_SideWalk 1 (1)_8
-  - first:
-      213: -1128202203406315701
-    second: Scarecrow_Ow_SideWalk 1 (1)_9
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -70,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -112,221 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1336
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 074037c41fd9e194baa72f4b57ecb2b3
-      internalID: 7868048141244751963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_1
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 1336
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6de26d6b83de9f64d8528b2c11d56b3a
-      internalID: 1387757704142182794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_2
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1336
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce1dff8b4af06334a89bc2f4bc77f50b
-      internalID: 8204499154704778594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_3
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 1336
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: add1c0a5b8c23834796491bee30276d6
-      internalID: 6258148853035313724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_4
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 1336
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8a607f74b4d2034c8f8dd1946842ff0
-      internalID: -5339173502348831392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12f659acf9c3ec54399b277812143086
-      internalID: 7238891898987414893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_6
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b89dee935bf048d45a235df5566d44c9
-      internalID: 9179669602101485569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_7
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0082391b4b7f6044ba9ebdd6aa495f61
-      internalID: -6927831945505268390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_8
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 0
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fef26e31bd3ecb8499416dd81163c7dd
-      internalID: -6559271491883322136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scarecrow_Ow_SideWalk 1 (1)_9
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 0
-        width: 768
-        height: 1336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cea38bd699efc98489d500903303bf6f
-      internalID: -1128202203406315701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6be72a74b7f1f56479082f2514d5bbfb
+    spriteID: 8166343e51ce67c45811f0f192d09254
     internalID: 0
     vertices: []
     indices: 
