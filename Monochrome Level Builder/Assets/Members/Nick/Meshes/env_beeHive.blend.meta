@@ -1,9 +1,54 @@
 fileFormatVersion: 2
-guid: 1cbf172c23e131e44ae2eaad0102c2db
+guid: 33708180d3d9b0c40b428428a205ceba
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_beeHive
+    second: {fileID: 2100000, guid: 725846e6acb33e7439ea2920bd55641b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_beeHiveTower
+    second: {fileID: 2100000, guid: 9f01d3fb3d8583d44b548814fcfab8bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_charOtto
+    second: {fileID: 2100000, guid: 670ba6a1ae4c442448c27697320a7e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_crate
+    second: {fileID: 2100000, guid: e758dd536819e844b8a655dd26900f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_hiveGround
+    second: {fileID: 2100000, guid: 0c72267f07854e645825f1518fcf8c96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_honeyPot
+    second: {fileID: 2100000, guid: 64335c1a043bc51428f5b99c31757bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_honeySpoon
+    second: {fileID: 2100000, guid: 624882717bde1fb4fac865fd14ce755f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_spout
+    second: {fileID: 2100000, guid: a4dc1750ca8405449920a938bd0719ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window
+    second: {fileID: 2100000, guid: 90010efbc3ef00448bd9d1d1979f7903, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -38,12 +83,12 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -57,7 +102,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -67,7 +112,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 3
