@@ -9,7 +9,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move3
+    m_ConditionEvent: attack2
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4211152034956826615}
@@ -32,7 +32,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bIdle
+  m_Name: idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -86,7 +86,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bDefeated
+  m_Name: defeat
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -114,7 +114,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Heal
+    m_ConditionEvent: heal
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1676308728455593240}
@@ -137,7 +137,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bWalk
+  m_Name: walk
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -166,7 +166,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Entertained
+    m_ConditionEvent: entertained
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 8250988359517965495}
@@ -189,7 +189,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bMove3
+  m_Name: attack2
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -216,7 +216,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bMove2
+  m_Name: attack1
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -289,7 +289,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move1
+    m_ConditionEvent: attack
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4132849400755569632}
@@ -312,7 +312,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bGuardDown
+  m_Name: damaged
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -363,7 +363,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: GuardDown
+    m_ConditionEvent: damaged
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1842162691241204372}
@@ -386,7 +386,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bHeal
+  m_Name: heal
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -415,7 +415,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move2
+    m_ConditionEvent: attack1
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4168782688154018134}
@@ -462,7 +462,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Win
+    m_ConditionEvent: win
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2333970123592289326}
@@ -509,55 +509,55 @@ AnimatorController:
   m_Name: char_bruiser-b
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Walk
+  - m_Name: walk
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Defeated
+  - m_Name: defeat
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Win
+  - m_Name: win
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Move1
+  - m_Name: attack
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Move2
+  - m_Name: attack1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Move3
+  - m_Name: attack2
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Entertained
+  - m_Name: entertained
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: GuardDown
+  - m_Name: damaged
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Heal
+  - m_Name: heal
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -583,7 +583,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bWin
+  m_Name: win
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -609,7 +609,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bMove1
+  m_Name: attack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -660,7 +660,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Defeated
+    m_ConditionEvent: defeat
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -5406197496550731652}
@@ -729,7 +729,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Walk
+    m_ConditionEvent: walk
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -5011727663342318168}
@@ -756,28 +756,28 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -1676308728455593240}
-    m_Position: {x: 640, y: 460, z: 0}
+    m_Position: {x: 640, y: 230, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4132849400755569632}
-    m_Position: {x: 640, y: 20, z: 0}
+    m_Position: {x: 640, y: 310, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4211152034956826615}
-    m_Position: {x: 640, y: 190, z: 0}
+    m_Position: {x: 640, y: 480, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4168782688154018134}
-    m_Position: {x: 640, y: 100, z: 0}
+    m_Position: {x: 640, y: 390, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5406197496550731652}
     m_Position: {x: 140, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1842162691241204372}
-    m_Position: {x: 640, y: 370, z: 0}
+    m_Position: {x: 640, y: 140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7208875797085735300}
     m_Position: {x: 260, y: 140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8250988359517965495}
-    m_Position: {x: 640, y: 280, z: 0}
+    m_Position: {x: 640, y: 50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2333970123592289326}
     m_Position: {x: 390, y: -20, z: 0}
@@ -801,7 +801,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bEntertained
+  m_Name: entertained
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
