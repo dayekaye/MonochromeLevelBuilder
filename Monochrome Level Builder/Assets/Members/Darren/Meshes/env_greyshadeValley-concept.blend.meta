@@ -3,7 +3,37 @@ guid: 99ee2f23a53068743b4b33d523351784
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 70dc78cc5f7175e45845228b9932a2fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_branch
+    second: {fileID: 2100000, guid: 236576da9b483c143ac64c17c0cff210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_charOtto
+    second: {fileID: 2100000, guid: e8cefded6c474e3499548b06a2ee6e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass
+    second: {fileID: 2100000, guid: 70d25e97f0e9e8c4b9af02d429da4351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gsv-ground
+    second: {fileID: 2100000, guid: 16b49b07eb4a106438cb648e632a045b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_stone
+    second: {fileID: 2100000, guid: 13a7bf38d0e96694b9775a3cbcd2397f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -39,7 +69,7 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     importVisibility: 0
-    importBlendShapes: 1
+    importBlendShapes: 0
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
