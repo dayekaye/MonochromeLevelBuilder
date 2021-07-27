@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bGardeDown
+  m_Name: damaged
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -36,7 +36,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Walk
+    m_ConditionEvent: walk
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1708687480794395398}
@@ -61,7 +61,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Entertained
+    m_ConditionEvent: entertained
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -5359813697463455516}
@@ -86,7 +86,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move1
+    m_ConditionEvent: attack
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 450403786033062131}
@@ -109,7 +109,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bEntertained
+  m_Name: entertained
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -143,31 +143,31 @@ AnimatorStateMachine:
     m_Position: {x: 230, y: 290, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4636779933115008522}
-    m_Position: {x: 590, y: 440, z: 0}
+    m_Position: {x: 590, y: 60, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -9113181257859533904}
-    m_Position: {x: 590, y: 370, z: 0}
+    m_Position: {x: 590, y: -10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 246578469371747933}
     m_Position: {x: 90, y: -90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4118822946574987472}
-    m_Position: {x: 340, y: 20, z: 0}
+    m_Position: {x: 350, y: -90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 450403786033062131}
-    m_Position: {x: 590, y: 90, z: 0}
+    m_Position: {x: 590, y: 130, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4557468725134314935}
-    m_Position: {x: 590, y: 160, z: 0}
+    m_Position: {x: 590, y: 200, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8750924465493996281}
     m_Position: {x: 230, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5027883966959187684}
-    m_Position: {x: 590, y: 230, z: 0}
+    m_Position: {x: 590, y: 270, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5359813697463455516}
-    m_Position: {x: 590, y: 300, z: 0}
+    m_Position: {x: 590, y: -80, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -185,7 +185,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bMove2
+  m_Name: attack1
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -212,7 +212,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bWin
+  m_Name: win
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -240,7 +240,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: GuardDown
+    m_ConditionEvent: damaged
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -9113181257859533904}
@@ -287,7 +287,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move2
+    m_ConditionEvent: attack1
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4557468725134314935}
@@ -310,7 +310,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bWalk
+  m_Name: walk
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -361,7 +361,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Move3
+    m_ConditionEvent: attack2
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 5027883966959187684}
@@ -386,7 +386,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Defeated
+    m_ConditionEvent: defeat
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 246578469371747933}
@@ -411,60 +411,60 @@ AnimatorController:
   m_Name: char_smokeStack-b
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Walk
+  - m_Name: walk
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Defeated
+    m_Controller: {fileID: 0}
+  - m_Name: defeat
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Win
+    m_Controller: {fileID: 0}
+  - m_Name: win
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Move1
+    m_Controller: {fileID: 0}
+  - m_Name: attack
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Move2
+    m_Controller: {fileID: 0}
+  - m_Name: attack1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Move3
+    m_Controller: {fileID: 0}
+  - m_Name: attack2
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Entertained
+    m_Controller: {fileID: 0}
+  - m_Name: entertained
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: GuardDown
+    m_Controller: {fileID: 0}
+  - m_Name: damaged
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Heal
+    m_Controller: {fileID: 0}
+  - m_Name: heal
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -485,7 +485,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bDefeated
+  m_Name: defeat
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -511,7 +511,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bMove1
+  m_Name: attack
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -562,7 +562,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Heal
+    m_ConditionEvent: heal
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4636779933115008522}
@@ -587,7 +587,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Win
+    m_ConditionEvent: win
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4118822946574987472}
@@ -654,7 +654,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bHeal
+  m_Name: heal
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -681,7 +681,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_smokeStack-bMove3
+  m_Name: attack2
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -752,7 +752,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_bruiser-bIdle
+  m_Name: idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
