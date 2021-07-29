@@ -32,6 +32,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_gsv-ground.001
+    second: {fileID: 2100000, guid: 4ebc0eaffc3fde84c81b3a0bfb0dcdb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_stone
     second: {fileID: 2100000, guid: 13a7bf38d0e96694b9775a3cbcd2397f, type: 2}
   materials:
@@ -73,7 +78,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
