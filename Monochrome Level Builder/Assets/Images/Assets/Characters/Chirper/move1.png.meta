@@ -1,55 +1,67 @@
 fileFormatVersion: 2
-guid: 7919c9dbc64b8d5459265c4ecbc5e36d
+guid: 8da5a0fb725ebe24097d0ac84e893aa7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7010102611285144455
-    second: char_Chirper-owIdleDown_00_0
+      213: -855298285791758126
+    second: 1_0
   - first:
-      213: -7358392696646513713
-    second: char_Chirper-owIdleDown_00_1
+      213: 9180251791023625898
+    second: 1_1
   - first:
-      213: -1962905587271747126
-    second: char_Chirper-owIdleDown_00_2
+      213: -549789443665989942
+    second: 1_2
   - first:
-      213: 466503157264172923
-    second: char_Chirper-owIdleDown_00_3
+      213: -5167413608083449488
+    second: 1_3
   - first:
-      213: -3169753631955737706
-    second: char_Chirper-owIdleDown_00_4
+      213: -8408763834710030297
+    second: 1_4
   - first:
-      213: 5364866990630737262
-    second: char_Chirper-owIdleDown_00_5
+      213: 1144234645273286238
+    second: 1_5
   - first:
-      213: 1144056971869673195
-    second: char_Chirper-owIdleDown_00_6
+      213: 4141612904334516676
+    second: 1_6
   - first:
-      213: -8415299586568959297
-    second: char_Chirper-owIdleDown_00_7
+      213: -5589664403440696418
+    second: 1_7
   - first:
-      213: 846052819177296263
-    second: char_Chirper-owIdleDown_00_8
+      213: 992728304312703659
+    second: 1_8
   - first:
-      213: 3144490792433869752
-    second: char_Chirper-owIdleDown_00_9
+      213: -2136464288153343608
+    second: 1_9
   - first:
-      213: -4743445980053611640
-    second: char_Chirper-owIdleDown_00_10
+      213: -2943368869531217807
+    second: 1_10
   - first:
-      213: 3349748697645686968
-    second: char_Chirper-owIdleDown_00_11
+      213: -3853403381307622619
+    second: 1_11
   - first:
-      213: 6506466703359323177
-    second: char_Chirper-owIdleDown_00_12
+      213: -3724514210783730073
+    second: 1_12
   - first:
-      213: -5464805397558693180
-    second: char_Chirper-owIdleDown_00_13
+      213: 4829742239670414492
+    second: 1_13
   - first:
-      213: -8402185772810878480
-    second: char_Chirper-owIdleDown_00_14
+      213: -4703073973657460086
+    second: 1_14
   - first:
-      213: -7344134400206762053
-    second: char_Chirper-owIdleDown_00_15
+      213: -4758693601636551281
+    second: 1_15
+  - first:
+      213: 301033883459096901
+    second: 1_16
+  - first:
+      213: -408045873104549462
+    second: 1_17
+  - first:
+      213: -8617238355990386545
+    second: 1_18
+  - first:
+      213: 778608710654788459
+    second: 1_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -108,7 +120,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -119,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -132,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_0
+      name: 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
-        width: 512
-        height: 512
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4ee2e22a70574045bec982aba850d25
-      internalID: 7010102611285144455
+      spriteID: 0ad658913d21f1744ab5873930df1dfa
+      internalID: -855298285791758126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_1
+      name: 1_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
+        x: 768
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,41 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8075e7c429063742bdd6931b04d6e61
-      internalID: -7358392696646513713
+      spriteID: ecc22b3f9141fe94798a610e68857bd2
+      internalID: 9180251791023625898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_2
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 530b0589ae1c0534985ce0bc233a8362
-      internalID: -1962905587271747126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_3
+      name: 1_2
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
-        width: 512
-        height: 512
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +200,167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb95c5679e4555b4a936d41de762576c
-      internalID: 466503157264172923
+      spriteID: 782cd32ed88ca8d4497e0f09f19d52d3
+      internalID: -549789443665989942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_4
+      name: 1_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b2e4bfbfaa18478d7b98555439ac2
+      internalID: -5167413608083449488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41316a59379924aa21114b3aeb6119
+      internalID: -8408763834710030297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58782faab4800164da10549d7d230f05
+      internalID: 1144234645273286238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d0b849f290c44aa03508c1fa3215a
+      internalID: 4141612904334516676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3500fa000f127848b21beb3c970b651
+      internalID: -5589664403440696418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f7f2192a1bc443814c699928f3397
+      internalID: 992728304312703659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a20687aef8df64999d768bb449cb7f
+      internalID: -2136464288153343608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_10
       rect:
         serializedVersion: 2
         x: 0
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e90f84bff78f594baedaab61d82354e
-      internalID: -3169753631955737706
+      spriteID: 9f7929ea261d7484f85b71103c8b9503
+      internalID: -2943368869531217807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_5
+      name: 1_11
       rect:
         serializedVersion: 2
-        x: 512
+        x: 768
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,41 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae081d20216f97c48b4fc7cf84d249c2
-      internalID: 5364866990630737262
+      spriteID: ddd3d1d040514744bbf21524e8445c0a
+      internalID: -3853403381307622619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_6
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4df510fb7db2b084bb80de6f906dc9c8
-      internalID: 1144056971869673195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_7
+      name: 1_12
       rect:
         serializedVersion: 2
         x: 1536
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f38413f894013d49918df059878b7d8
-      internalID: -8415299586568959297
+      spriteID: 820e95d8fca073c469083ef4f63333e6
+      internalID: -3724514210783730073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_8
+      name: 1_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
+        x: 2304
+        y: 1024
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f8fc820d7db28345bc89f5428945576
-      internalID: 846052819177296263
+      spriteID: 776aa0edd0f6c8349996c9363d6d81c5
+      internalID: 4829742239670414492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_9
+      name: 1_14
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
+        x: 3072
+        y: 1024
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,62 +452,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f791a8b9b1da74590af142f3c1a374
-      internalID: 3144490792433869752
+      spriteID: fb0faa55ec14b08458988461417b5ddd
+      internalID: -4703073973657460086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_10
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f47d8ffcf7b5a443a476812cbc6d342
-      internalID: -4743445980053611640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_11
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: afe0ff21b012722499855bd1c355c234
-      internalID: 3349748697645686968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_12
+      name: 1_15
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,20 +473,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 730f927dfa76fa645b6036c861b17246
-      internalID: 6506466703359323177
+      spriteID: a64d8615800de3344980118f9603d799
+      internalID: -4758693601636551281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_13
+      name: 1_16
       rect:
         serializedVersion: 2
-        x: 512
+        x: 768
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,41 +494,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8951bc1dfe29ec543accf2ac4cfd3ae7
-      internalID: -5464805397558693180
+      spriteID: a123a8f065cb2bf44a00578f6493721a
+      internalID: 301033883459096901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_14
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e286c28c20768b449846e16f5f7b5d29
-      internalID: -8402185772810878480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_15
+      name: 1_17
       rect:
         serializedVersion: 2
         x: 1536
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,8 +515,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee66cbe0a7a1dd94cac6005b8ed8b893
-      internalID: -7344134400206762053
+      spriteID: fcb15ef11d4e943499a20c5766259a2f
+      internalID: -408045873104549462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091763c62a29b94da68373937e8ef80
+      internalID: -8617238355990386545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf929ab301e0041b00c709f3792027
+      internalID: 778608710654788459
       vertices: []
       indices: 
       edges: []
@@ -470,7 +566,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7683de9509c8bae4a8a7e5da77cb9c1b
+    spriteID: effb87b4adda89d49ad3241b9c83e350
     internalID: 0
     vertices: []
     indices: 

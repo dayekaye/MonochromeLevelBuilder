@@ -1,55 +1,67 @@
 fileFormatVersion: 2
-guid: 7919c9dbc64b8d5459265c4ecbc5e36d
+guid: b1135fbb8f6c8ac4f865beba53639212
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7010102611285144455
-    second: char_Chirper-owIdleDown_00_0
+      213: 1592685095696378902
+    second: Chirper_BattleWalkIn_SpriteSheet1_0
   - first:
-      213: -7358392696646513713
-    second: char_Chirper-owIdleDown_00_1
+      213: 2207535590165128414
+    second: Chirper_BattleWalkIn_SpriteSheet1_1
   - first:
-      213: -1962905587271747126
-    second: char_Chirper-owIdleDown_00_2
+      213: -8247913889575887759
+    second: Chirper_BattleWalkIn_SpriteSheet1_2
   - first:
-      213: 466503157264172923
-    second: char_Chirper-owIdleDown_00_3
+      213: -6030162358640860546
+    second: Chirper_BattleWalkIn_SpriteSheet1_3
   - first:
-      213: -3169753631955737706
-    second: char_Chirper-owIdleDown_00_4
+      213: -7216675535370620302
+    second: Chirper_BattleWalkIn_SpriteSheet1_4
   - first:
-      213: 5364866990630737262
-    second: char_Chirper-owIdleDown_00_5
+      213: 141181347965017179
+    second: Chirper_BattleWalkIn_SpriteSheet1_5
   - first:
-      213: 1144056971869673195
-    second: char_Chirper-owIdleDown_00_6
+      213: -7253866739794263576
+    second: Chirper_BattleWalkIn_SpriteSheet1_6
   - first:
-      213: -8415299586568959297
-    second: char_Chirper-owIdleDown_00_7
+      213: -3422000939252328302
+    second: Chirper_BattleWalkIn_SpriteSheet1_7
   - first:
-      213: 846052819177296263
-    second: char_Chirper-owIdleDown_00_8
+      213: 2155742303408216057
+    second: Chirper_BattleWalkIn_SpriteSheet1_8
   - first:
-      213: 3144490792433869752
-    second: char_Chirper-owIdleDown_00_9
+      213: 748491382435953835
+    second: Chirper_BattleWalkIn_SpriteSheet1_9
   - first:
-      213: -4743445980053611640
-    second: char_Chirper-owIdleDown_00_10
+      213: -5596752747812320555
+    second: Chirper_BattleWalkIn_SpriteSheet1_10
   - first:
-      213: 3349748697645686968
-    second: char_Chirper-owIdleDown_00_11
+      213: -821133960571584821
+    second: Chirper_BattleWalkIn_SpriteSheet1_11
   - first:
-      213: 6506466703359323177
-    second: char_Chirper-owIdleDown_00_12
+      213: 6764064029322032993
+    second: Chirper_BattleWalkIn_SpriteSheet1_12
   - first:
-      213: -5464805397558693180
-    second: char_Chirper-owIdleDown_00_13
+      213: 2284965782540335482
+    second: Chirper_BattleWalkIn_SpriteSheet1_13
   - first:
-      213: -8402185772810878480
-    second: char_Chirper-owIdleDown_00_14
+      213: 6113817182504245820
+    second: Chirper_BattleWalkIn_SpriteSheet1_14
   - first:
-      213: -7344134400206762053
-    second: char_Chirper-owIdleDown_00_15
+      213: -6213983205784711241
+    second: Chirper_BattleWalkIn_SpriteSheet1_15
+  - first:
+      213: 2338549312309540547
+    second: Chirper_BattleWalkIn_SpriteSheet1_16
+  - first:
+      213: 3251931492360038119
+    second: Chirper_BattleWalkIn_SpriteSheet1_17
+  - first:
+      213: 1394068402983373960
+    second: Chirper_BattleWalkIn_SpriteSheet1_18
+  - first:
+      213: -237331940847490136
+    second: Chirper_BattleWalkIn_SpriteSheet1_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -108,7 +120,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -119,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -132,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_0
+      name: Chirper_BattleWalkIn_SpriteSheet1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
-        width: 512
-        height: 512
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4ee2e22a70574045bec982aba850d25
-      internalID: 7010102611285144455
+      spriteID: 20ebe5b8f3bc91d439a53e723d360ac9
+      internalID: 1592685095696378902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_1
+      name: Chirper_BattleWalkIn_SpriteSheet1_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
+        x: 768
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,41 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8075e7c429063742bdd6931b04d6e61
-      internalID: -7358392696646513713
+      spriteID: c66e00d50b3ef9140b9caa8ec62cc853
+      internalID: 2207535590165128414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_2
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 530b0589ae1c0534985ce0bc233a8362
-      internalID: -1962905587271747126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_3
+      name: Chirper_BattleWalkIn_SpriteSheet1_2
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
-        width: 512
-        height: 512
+        y: 3072
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +200,167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb95c5679e4555b4a936d41de762576c
-      internalID: 466503157264172923
+      spriteID: b4595633a4d8a5f479ff0438a51b79b0
+      internalID: -8247913889575887759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_4
+      name: Chirper_BattleWalkIn_SpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff04f508a0534934483c5651c3d10401
+      internalID: -6030162358640860546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee138a64aa0e644cbe1a86ce2e4ed28
+      internalID: -7216675535370620302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf3f089890de546a4327e197966912
+      internalID: 141181347965017179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce8f90d411cb14a9250c8cf59b573a
+      internalID: -7253866739794263576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7dcad8279382e4d8d63c7dd1bcb23a
+      internalID: -3422000939252328302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e3bc3e33e3d04cb12998fcbe897a1
+      internalID: 2155742303408216057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b9a33474ee629419748114c1fd41f4
+      internalID: 748491382435953835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_10
       rect:
         serializedVersion: 2
         x: 0
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e90f84bff78f594baedaab61d82354e
-      internalID: -3169753631955737706
+      spriteID: 60e023f6fed083b4490554bc7cce29ba
+      internalID: -5596752747812320555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_5
+      name: Chirper_BattleWalkIn_SpriteSheet1_11
       rect:
         serializedVersion: 2
-        x: 512
+        x: 768
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,41 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae081d20216f97c48b4fc7cf84d249c2
-      internalID: 5364866990630737262
+      spriteID: 21a900f1755d20346b13cfa1fea02652
+      internalID: -821133960571584821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_6
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4df510fb7db2b084bb80de6f906dc9c8
-      internalID: 1144056971869673195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_7
+      name: Chirper_BattleWalkIn_SpriteSheet1_12
       rect:
         serializedVersion: 2
         x: 1536
         y: 1024
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f38413f894013d49918df059878b7d8
-      internalID: -8415299586568959297
+      spriteID: 2f491bff0a1d1af40838f1c499cb6402
+      internalID: 6764064029322032993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_8
+      name: Chirper_BattleWalkIn_SpriteSheet1_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
+        x: 2304
+        y: 1024
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f8fc820d7db28345bc89f5428945576
-      internalID: 846052819177296263
+      spriteID: 2a905c349511b724e83d7b16b75b0511
+      internalID: 2284965782540335482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_9
+      name: Chirper_BattleWalkIn_SpriteSheet1_14
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
+        x: 3072
+        y: 1024
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,62 +452,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f791a8b9b1da74590af142f3c1a374
-      internalID: 3144490792433869752
+      spriteID: 1d4ad1d29bd7bc24d925c6206dab55e4
+      internalID: 6113817182504245820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_10
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f47d8ffcf7b5a443a476812cbc6d342
-      internalID: -4743445980053611640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_11
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: afe0ff21b012722499855bd1c355c234
-      internalID: 3349748697645686968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_12
+      name: Chirper_BattleWalkIn_SpriteSheet1_15
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,20 +473,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 730f927dfa76fa645b6036c861b17246
-      internalID: 6506466703359323177
+      spriteID: b4cbad54eac542846afdcfa631b131cb
+      internalID: -6213983205784711241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_13
+      name: Chirper_BattleWalkIn_SpriteSheet1_16
       rect:
         serializedVersion: 2
-        x: 512
+        x: 768
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,41 +494,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8951bc1dfe29ec543accf2ac4cfd3ae7
-      internalID: -5464805397558693180
+      spriteID: 548fcb57e71a1174f923dceac09583a1
+      internalID: 2338549312309540547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_14
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e286c28c20768b449846e16f5f7b5d29
-      internalID: -8402185772810878480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_Chirper-owIdleDown_00_15
+      name: Chirper_BattleWalkIn_SpriteSheet1_17
       rect:
         serializedVersion: 2
         x: 1536
         y: 0
-        width: 512
-        height: 512
+        width: 768
+        height: 1024
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,8 +515,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee66cbe0a7a1dd94cac6005b8ed8b893
-      internalID: -7344134400206762053
+      spriteID: ca3272e2c17655b4e813db3411ff1f73
+      internalID: 3251931492360038119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab98b4ddd85494fbdd5074516bb2fd
+      internalID: 1394068402983373960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chirper_BattleWalkIn_SpriteSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 768
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c02295e63dbf468019f2d7ce72527
+      internalID: -237331940847490136
       vertices: []
       indices: 
       edges: []
@@ -470,7 +566,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7683de9509c8bae4a8a7e5da77cb9c1b
+    spriteID: 9b77d7042ff40e84f9421ddf5077d499
     internalID: 0
     vertices: []
     indices: 
