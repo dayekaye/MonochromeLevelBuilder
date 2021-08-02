@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: -7945425842089171368
     second: Gackle_Attack_2_3-372 dpi_1
+  - first:
+      213: 3217759686156944283
+    second: char_gackle-bMove2-03_0
+  - first:
+      213: -7443495681959993181
+    second: char_gackle-bMove2-03_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -123,43 +129,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gackle_Attack_2_3-372 dpi_0
+      name: char_gackle-bMove2-03_0
       rect:
         serializedVersion: 2
         x: 0
         y: 3072
         width: 1024
         height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.59, y: 0.217}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 011c16048a7403e4c9ea16cea323c353
-      internalID: -8817708935028059474
+      spriteID: 08d03bedf3a603f4f83e9ef3396a2453
+      internalID: 3217759686156944283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gackle_Attack_2_3-372 dpi_1
+      name: char_gackle-bMove2-03_1
       rect:
         serializedVersion: 2
         x: 1024
         y: 3072
         width: 1024
         height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.59, y: 0.217}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63e7601d76e8c444fb4da02d40d45d9b
-      internalID: -7945425842089171368
+      spriteID: 099f570537b63574a8693ee6e425ca29
+      internalID: -7443495681959993181
       vertices: []
       indices: 
       edges: []
