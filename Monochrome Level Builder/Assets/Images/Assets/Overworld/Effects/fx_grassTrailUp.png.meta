@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5955f4e134600bb489976ebd7602fe52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1205042489823145634
+    second: fx_grassTrailUp_0
+  - first:
+      213: 4131701112309047537
+    second: fx_grassTrailUp_1
+  - first:
+      213: 3879161779059462325
+    second: fx_grassTrailUp_2
+  - first:
+      213: -3048453865790700839
+    second: fx_grassTrailUp_3
+  - first:
+      213: -2335522877416314927
+    second: fx_grassTrailUp_4
+  - first:
+      213: 6901963716144463557
+    second: fx_grassTrailUp_5
+  - first:
+      213: 1562270950738418424
+    second: fx_grassTrailUp_6
+  - first:
+      213: -1914427793193726822
+    second: fx_grassTrailUp_7
+  - first:
+      213: -8124720024060407855
+    second: fx_grassTrailUp_8
+  - first:
+      213: -5259255259757474628
+    second: fx_grassTrailUp_9
+  - first:
+      213: -1675393578272102953
+    second: fx_grassTrailUp_10
+  - first:
+      213: 4498062189548476404
+    second: fx_grassTrailUp_11
+  - first:
+      213: 377296422312936862
+    second: fx_grassTrailUp_12
+  - first:
+      213: 7693067776176317056
+    second: fx_grassTrailUp_13
+  - first:
+      213: 7194034970882335308
+    second: fx_grassTrailUp_14
+  - first:
+      213: -5115892828925258476
+    second: fx_grassTrailUp_15
+  - first:
+      213: -8908196139037586064
+    second: fx_grassTrailUp_16
+  - first:
+      213: -6365241670343930594
+    second: fx_grassTrailUp_17
+  - first:
+      213: 536340190418609536
+    second: fx_grassTrailUp_18
+  - first:
+      213: 6110074790263882702
+    second: fx_grassTrailUp_19
+  - first:
+      213: -407190973491874425
+    second: fx_grassTrailUp_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_grassTrailUp_0
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 342
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a173571a081f3949a6bfdbc97a71f11
+      internalID: -1205042489823145634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 342
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377414b8878d4b14f953b4de7683500f
+      internalID: 4131701112309047537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_2
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 342
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc5217d74e78c488eac891416336ca
+      internalID: 3879161779059462325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 342
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead428b1af12ef43add37b1369088bf
+      internalID: -3048453865790700839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a8e0bd3277a649a93b73716c58ac4
+      internalID: -2335522877416314927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 228
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d779f5e81956db4f845e181a4ed60cd
+      internalID: 6901963716144463557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 228
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef54fac3fd05649bf1c1a39135739d
+      internalID: 1562270950738418424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 228
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0597c90e8c95d0443a7661d8bae7a3f8
+      internalID: -1914427793193726822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 228
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffea080fccede446a2c4acc9c66660d
+      internalID: -8124720024060407855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4ce0576cc66a42976694adedf221c
+      internalID: -5259255259757474628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 114
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e0f17ef8014a40bf731bf87fd5d4c
+      internalID: -1675393578272102953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 114
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b33498598ff504aafc59a2e8fcfdac
+      internalID: 4498062189548476404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_12
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 114
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93b80eebdc7c54092c94736185da92
+      internalID: 377296422312936862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 114
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd6769b6b904447a2e7064b9923237
+      internalID: 7693067776176317056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891228d81059434d9343e0a9d4ca5dc
+      internalID: 7194034970882335308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailUp_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 246
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df862372133fa2948a607641454f9a8b
+      internalID: -5115892828925258476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 889c035d0891ac348874a1e9fdf1c023
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

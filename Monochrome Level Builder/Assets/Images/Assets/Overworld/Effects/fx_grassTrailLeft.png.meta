@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: f5dbce0a2bba9b64dbb91fa16a38996a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2456614406453736079
+    second: fx_grassTrailLeft_0
+  - first:
+      213: 4110774080703388299
+    second: fx_grassTrailLeft_1
+  - first:
+      213: -7802168421284080853
+    second: fx_grassTrailLeft_2
+  - first:
+      213: -2885879984750273978
+    second: fx_grassTrailLeft_3
+  - first:
+      213: -7849933853671907650
+    second: fx_grassTrailLeft_4
+  - first:
+      213: -8323733609966244715
+    second: fx_grassTrailLeft_5
+  - first:
+      213: 1828851878665513752
+    second: fx_grassTrailLeft_6
+  - first:
+      213: -2477218712678367176
+    second: fx_grassTrailLeft_7
+  - first:
+      213: -1363962457832209982
+    second: fx_grassTrailLeft_8
+  - first:
+      213: -2686422705461451230
+    second: fx_grassTrailLeft_9
+  - first:
+      213: -3789938778170206485
+    second: fx_grassTrailLeft_10
+  - first:
+      213: -8702084663330971416
+    second: fx_grassTrailLeft_11
+  - first:
+      213: 9122719695216850425
+    second: fx_grassTrailLeft_12
+  - first:
+      213: -2038455234076926112
+    second: fx_grassTrailLeft_13
+  - first:
+      213: 5838584691489812309
+    second: fx_grassTrailLeft_14
+  - first:
+      213: -5982159431522252197
+    second: fx_grassTrailLeft_15
+  - first:
+      213: -7310648116556563227
+    second: fx_grassTrailLeft_16
+  - first:
+      213: -7305497813851322699
+    second: fx_grassTrailLeft_17
+  - first:
+      213: 9052546656488077111
+    second: fx_grassTrailLeft_18
+  - first:
+      213: 7575069454315296494
+    second: fx_grassTrailLeft_19
+  - first:
+      213: -7336061635073808480
+    second: fx_grassTrailLeft_20
+  - first:
+      213: -3730047405861838627
+    second: fx_grassTrailLeft_21
+  - first:
+      213: 1369267865270393830
+    second: fx_grassTrailLeft_22
+  - first:
+      213: -6320031282399612760
+    second: fx_grassTrailLeft_23
+  - first:
+      213: 2185962238839659801
+    second: fx_grassTrailLeft_24
+  - first:
+      213: -5920972430690381919
+    second: fx_grassTrailLeft_25
+  - first:
+      213: -7596621810493011827
+    second: fx_grassTrailLeft_26
+  - first:
+      213: -1208999991632231474
+    second: fx_grassTrailLeft_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 330
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa57832948ee64a82fcac15188366a
+      internalID: 2456614406453736079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 330
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d3038840126e40ab896beacd5774c
+      internalID: 4110774080703388299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_2
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 330
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1631ec107131e74cb13c0fb7efc4e10
+      internalID: -7802168421284080853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 330
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82799523cd2414f87ac470aec5a2b5
+      internalID: -2885879984750273978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf238eef54c2ac3459d99e66548a12b0
+      internalID: -7849933853671907650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d70e2f81d63a74ca0a598f942ce61a
+      internalID: -8323733609966244715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e1ca90730495f46bc8b5360b91e7e7
+      internalID: 1828851878665513752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14031a3b566c8d84abd184f9c6c30e3f
+      internalID: -2477218712678367176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b72d23a88b94f45885386d281c665f
+      internalID: -1363962457832209982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_9
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 264
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be723234d3444f8428b828a4cb86fa89
+      internalID: -2686422705461451230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e270030469941d4a997bf6bf150df8c
+      internalID: -3789938778170206485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49701c42c3b2f9d42a3003ea399acf91
+      internalID: -8702084663330971416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 198
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b29026fb020ef44b4b20fe909a5e6c
+      internalID: 9122719695216850425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 198
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e9b95f9c9db6b46a0ebfe6cdf7f7f9
+      internalID: -2038455234076926112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 198
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2fb867f8c16a47aa83dd56cc19b0b
+      internalID: 5838584691489812309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_15
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 198
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf85a09ecf846343ba1ba2391c53cc2
+      internalID: -5982159431522252197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d4c7f204b5f64aa42d2d9c4783eea
+      internalID: -7310648116556563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e913d2d97858ae54ab65c98843c8f4de
+      internalID: -7305497813851322699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d024097a372a87a4abbb3d8cb6592ce8
+      internalID: 9052546656488077111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7325a4b03811a4f90790dc7414b35d
+      internalID: 7575069454315296494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2871ae9dce2f8aa47acfa5b72b80476d
+      internalID: -7336061635073808480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_21
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 132
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3b3e22b91e7b42a4285f310938ba3
+      internalID: -3730047405861838627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0b3cf40d83ea42af082e1deb0a292
+      internalID: 1369267865270393830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ced7dea895bb2489176f89e2083829
+      internalID: -6320031282399612760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c0f7374646bd841b276a3a4241dff5
+      internalID: 2185962238839659801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_25
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9e06cd7383f148804d630fa275b68
+      internalID: -5920972430690381919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_26
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588509dd8a789e9499b166d6b4957659
+      internalID: -7596621810493011827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailLeft_27
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 66
+        width: 234
+        height: 66
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e756f0554eafdd42bb73edbcd83611b
+      internalID: -1208999991632231474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8336bc1b7f1d4f1418a696fa38ac20b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
