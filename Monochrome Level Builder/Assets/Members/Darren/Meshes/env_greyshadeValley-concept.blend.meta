@@ -42,6 +42,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_gsv-ground.002
+    second: {fileID: 2100000, guid: 06473b69f48e03046b3e8137bd9facfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_gsv-trees
     second: {fileID: 2100000, guid: b2b099924a974994aa07c91c91f96d5f, type: 2}
   - first:
@@ -54,6 +59,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_stone
     second: {fileID: 2100000, guid: 13a7bf38d0e96694b9775a3cbcd2397f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh_gsv-ground.002_Grass-Bake_baked
+    second: {fileID: 2100000, guid: d043ef1828df51a4f84bfd53e7be4d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh_gsv-ground.003_Grass-Bake_baked
+    second: {fileID: 2100000, guid: 2f4101bd6e95cdd4192b95ede9d00e5f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
