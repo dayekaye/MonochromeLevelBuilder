@@ -1,43 +1,7 @@
 fileFormatVersion: 2
-guid: 1cf44ec1b0da65f438452a90a572d989
+guid: 6d7c1e3a64bc7424dacdd4dc47fee1eb
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -1203721794907650798
-    second: HP OW Idle Front 37-48_0
-  - first:
-      213: 8548261677574172887
-    second: HP OW Idle Front 37-48_1
-  - first:
-      213: -8623924498170985081
-    second: HP OW Idle Front 37-48_2
-  - first:
-      213: 3285282152663177834
-    second: HP OW Idle Front 37-48_3
-  - first:
-      213: 1115003675869692814
-    second: HP OW Idle Front 37-48_4
-  - first:
-      213: -2311598519698138182
-    second: HP OW Idle Front 37-48_5
-  - first:
-      213: -491079125275043220
-    second: HP OW Idle Front 37-48_6
-  - first:
-      213: -4749315729509899551
-    second: HP OW Idle Front 37-48_7
-  - first:
-      213: -4729911810506686053
-    second: HP OW Idle Front 37-48_8
-  - first:
-      213: 1560353900827641161
-    second: HP OW Idle Front 37-48_9
-  - first:
-      213: -4023169372220034229
-    second: HP OW Idle Front 37-48_10
-  - first:
-      213: -4783789440157325761
-    second: HP OW Idle Front 37-48_11
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -76,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -118,263 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2ab7673e10193e4595a72ff1b80e3f9
-      internalID: -1203721794907650798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_1
-      rect:
-        serializedVersion: 2
-        x: 1280
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f769843212411f74aa6381f7ec534d08
-      internalID: 8548261677574172887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_2
-      rect:
-        serializedVersion: 2
-        x: 2560
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a05f0bfe459e4543a96930e7dcd5f54
-      internalID: -8623924498170985081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_3
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca0ecc4c00e164a4a9ea7a6807cb5eed
-      internalID: 3285282152663177834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_4
-      rect:
-        serializedVersion: 2
-        x: 5120
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bedd857be9105f4b93354842919d45a
-      internalID: 1115003675869692814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_5
-      rect:
-        serializedVersion: 2
-        x: 6400
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1897273ae417ee478fde07abeaff0ed
-      internalID: -2311598519698138182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_6
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 204b0e2399befb247a491a3d8899435e
-      internalID: -491079125275043220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_7
-      rect:
-        serializedVersion: 2
-        x: 8960
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce20096a1a9828041bfa94dd24a641fe
-      internalID: -4749315729509899551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_8
-      rect:
-        serializedVersion: 2
-        x: 10240
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c94284e1ff2158f4daf89d68da29d5ef
-      internalID: -4729911810506686053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_9
-      rect:
-        serializedVersion: 2
-        x: 11520
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5d8f40822cf4b341bce1f5ac33334eb
-      internalID: 1560353900827641161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_10
-      rect:
-        serializedVersion: 2
-        x: 12800
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7dda49cd441ec94b901990f78c7a436
-      internalID: -4023169372220034229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HP OW Idle Front 37-48_11
-      rect:
-        serializedVersion: 2
-        x: 14080
-        y: 0
-        width: 1280
-        height: 1280
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 320c29a14a6cf3a408303bcf0ad24fe1
-      internalID: -4783789440157325761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 907ba8b000f764b449d563057052b16e
+    spriteID: 26043a522c262f64cbafba0616d658d3
     internalID: 0
     vertices: []
     indices: 

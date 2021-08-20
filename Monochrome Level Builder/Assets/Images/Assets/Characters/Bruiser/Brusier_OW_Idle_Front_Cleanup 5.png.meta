@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: 48ec97126cecbbf4dba49355ee63d957
+guid: 85f77da85777ff8429a03002a3ae6d49
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -5205190731055989976
-    second: Brusier_OW_Idle_Front_Cleanup 5_0
-  - first:
-      213: -848387331579014246
-    second: Brusier_OW_Idle_Front_Cleanup 5_1
-  - first:
-      213: -7514914476928635260
-    second: Brusier_OW_Idle_Front_Cleanup 5_2
-  - first:
-      213: 8394106342335414306
-    second: Brusier_OW_Idle_Front_Cleanup 5_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -94,95 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Brusier_OW_Idle_Front_Cleanup 5_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eed0a4144ffce424a8a356e544ffb56a
-      internalID: -5205190731055989976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brusier_OW_Idle_Front_Cleanup 5_1
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0c0ee19fb7eb474aa34f6b952416186
-      internalID: -848387331579014246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brusier_OW_Idle_Front_Cleanup 5_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e67467bed93b004baa6e505e929ec77
-      internalID: -7514914476928635260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brusier_OW_Idle_Front_Cleanup 5_3
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c072f5b952be0643a27ab89cc7784c8
-      internalID: 8394106342335414306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d50e73c3ba80f9a44a0e6b2a62388ef9
+    spriteID: f0d34cfc78f8ab646bb03b3bba793380
     internalID: 0
     vertices: []
     indices: 

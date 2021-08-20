@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: ec8a0f0aa6b9a8c4da2dedc19a721965
+guid: b8070d925b74c8643835dc5b403c4771
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -4384816927694146586
-    second: Bruiser OW Idle Side 7_0
-  - first:
-      213: -5947267982207150908
-    second: Bruiser OW Idle Side 7_1
-  - first:
-      213: -687073561713874991
-    second: Bruiser OW Idle Side 7_2
-  - first:
-      213: 1262409180944253763
-    second: Bruiser OW Idle Side 7_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -94,95 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Bruiser OW Idle Side 7_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4dc474afad5170b4a95ac88bf660dabd
-      internalID: -4384816927694146586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser OW Idle Side 7_1
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64e539160b82644468977e5bb5b172d7
-      internalID: -5947267982207150908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser OW Idle Side 7_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5457ad9a24b14284fb7c18cd3e07bc8f
-      internalID: -687073561713874991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser OW Idle Side 7_3
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e68900622f9ddad4489e08bc37bf10ec
-      internalID: 1262409180944253763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 94635b73eb1379e4ea726e4b215cf227
+    spriteID: bd89ed804b5f41f4a85f7104a0019c5b
     internalID: 0
     vertices: []
     indices: 

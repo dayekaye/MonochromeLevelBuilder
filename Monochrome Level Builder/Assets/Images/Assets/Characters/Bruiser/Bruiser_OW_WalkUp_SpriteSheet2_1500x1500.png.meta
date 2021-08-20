@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: 9c80181563e822f4dacdb82908a1c176
+guid: f730666f99ade224e86a5d150589ef31
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 8606178331995202896
-    second: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_0
-  - first:
-      213: -3093119236107658246
-    second: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_1
-  - first:
-      213: 3507668552166521278
-    second: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_2
-  - first:
-      213: 1517694877623042117
-    second: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -94,95 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5aa8ad50a88daa1439f788ed9ace8139
-      internalID: 8606178331995202896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_1
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77fcc4b7e6b703d408dd8c1f6c4dcbfe
-      internalID: -3093119236107658246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69dbce79d2cc1b948a0ed2da9187ced9
-      internalID: 3507668552166521278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkUp_SpriteSheet2_1500x1500_3
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ab88c4c05f2b6442b1bcd8d4619785e
-      internalID: 1517694877623042117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 522fd23c9db02da43a8eec438c090908
+    spriteID: d6e7a856a0e07d94e93b8692f8bb4a44
     internalID: 0
     vertices: []
     indices: 

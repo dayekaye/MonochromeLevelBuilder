@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: 2c36f6bbc7d8fc346a7910271bd4c748
+guid: 496cb10ab364aab4b936b531906212b7
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -4544707004845652580
-    second: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_0
-  - first:
-      213: 3904780421961701230
-    second: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_1
-  - first:
-      213: -8868701711237727937
-    second: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_2
-  - first:
-      213: 2819797276777058605
-    second: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,18 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -94,95 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77ce95b2a00d8154d9ed1f85f327e719
-      internalID: -4544707004845652580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_1
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 1500
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d8529dea4077b84d8f3261c09b9341c
-      internalID: 3904780421961701230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f19e0f4b9999d074fb705c8c18bc0f0a
-      internalID: -8868701711237727937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bruiser_OW_WalkDown_SpriteSheet2_1500x1500_3
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 1500
-        height: 1500
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21a17d4cc11afc046aeec3dd3c35fd7f
-      internalID: 2819797276777058605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f629d69911db5b346b2d3d8ae848cdfb
+    spriteID: 7bba55959dd23994ca8403c7cf4978bc
     internalID: 0
     vertices: []
     indices: 
