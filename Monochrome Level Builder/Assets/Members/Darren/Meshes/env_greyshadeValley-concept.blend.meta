@@ -62,6 +62,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_tree-canopy
+    second: {fileID: 2100000, guid: de432f02d115d7449974ad3bb8e8539c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mesh_gsv-ground.002_Grass-Bake_baked
     second: {fileID: 2100000, guid: d043ef1828df51a4f84bfd53e7be4d22, type: 2}
   - first:
