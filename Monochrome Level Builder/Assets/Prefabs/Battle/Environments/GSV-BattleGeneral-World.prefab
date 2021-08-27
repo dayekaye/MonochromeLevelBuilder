@@ -13140,6 +13140,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4462151329018589332, guid: 99ee2f23a53068743b4b33d523351784,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -3408063342953388098, guid: 99ee2f23a53068743b4b33d523351784,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13525,11 +13530,6 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4462151329018589332, guid: 99ee2f23a53068743b4b33d523351784,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99ee2f23a53068743b4b33d523351784, type: 3}
 --- !u!1 &6793957811503008668 stripped
@@ -13610,6 +13610,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494720370938724458, guid: fd4cf713ef0cbff4685c8bd198759855,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.17
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd4cf713ef0cbff4685c8bd198759855, type: 3}

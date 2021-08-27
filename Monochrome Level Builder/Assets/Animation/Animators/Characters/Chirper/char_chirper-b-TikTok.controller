@@ -111,7 +111,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6f408707ea5542d4baa36ef07e18fbd2, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5f28b9fd651168840a51d3a4853c1952, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -445,14 +445,14 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: char_chirper-b
+  m_Name: char_chirper-b-TikTok
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: isMove1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
-    m_DefaultBool: 1
+    m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   - m_Name: isMove3
     m_Type: 4
