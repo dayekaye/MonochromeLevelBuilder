@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: ef78e595b2e15844dbba65243b1bc6da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7445770241015194228
+    second: fx_grassTrailDown_0
+  - first:
+      213: -3392317917437657305
+    second: fx_grassTrailDown_1
+  - first:
+      213: -2742100800231728929
+    second: fx_grassTrailDown_2
+  - first:
+      213: -6346450696318538048
+    second: fx_grassTrailDown_3
+  - first:
+      213: -6275716301165069626
+    second: fx_grassTrailDown_4
+  - first:
+      213: 3461491566288134256
+    second: fx_grassTrailDown_5
+  - first:
+      213: -8354507939992315752
+    second: fx_grassTrailDown_6
+  - first:
+      213: 210790129459668132
+    second: fx_grassTrailDown_7
+  - first:
+      213: 2225188011532480072
+    second: fx_grassTrailDown_8
+  - first:
+      213: -688320876251707354
+    second: fx_grassTrailDown_9
+  - first:
+      213: 3279100672963156269
+    second: fx_grassTrailDown_10
+  - first:
+      213: -7046221484168968710
+    second: fx_grassTrailDown_11
+  - first:
+      213: -7263698387190140910
+    second: fx_grassTrailDown_12
+  - first:
+      213: 6247387715373126391
+    second: fx_grassTrailDown_13
+  - first:
+      213: 6996159766145560094
+    second: fx_grassTrailDown_14
+  - first:
+      213: 199779431700432593
+    second: fx_grassTrailDown_15
+  - first:
+      213: 1640314182003386590
+    second: fx_grassTrailDown_16
+  - first:
+      213: -379787691990216228
+    second: fx_grassTrailDown_17
+  - first:
+      213: -686186947817270119
+    second: fx_grassTrailDown_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_grassTrailDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5e85ba306abb041833153ccae4a725
+      internalID: -7445770241015194228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 303
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7f99ee669efc4dba0d1cc48a2a1e7
+      internalID: -3392317917437657305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 303
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51d5a68f49ab894493db1e56e0bcec2
+      internalID: -2742100800231728929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 303
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6af6b2b96f6645b086c85994292d5
+      internalID: -6346450696318538048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e90787f51d5604c8a5549262f4d609
+      internalID: -6275716301165069626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 202
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65258d7d1c2a1d4db4c89ba381cdc24
+      internalID: 3461491566288134256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 202
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaffeb4d0e5d7946bfb91126f5240a9
+      internalID: -8354507939992315752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 202
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f18b6a24145341a51aa4fe97c1da7
+      internalID: 210790129459668132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fff86b9b72d1c4885026cb7579bbe0
+      internalID: 2225188011532480072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 101
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a267746119f48e24c9112d42b1f23120
+      internalID: -688320876251707354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 101
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164853408b332084eb2aee88be64cc9f
+      internalID: 3279100672963156269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 101
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc78d064e401ff449d2cdd96e73865b
+      internalID: -7046221484168968710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f0f97cb5b62d489128c3060cd7dd2
+      internalID: -7263698387190140910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce3f5a2fe161f47949cf01fd3b562b
+      internalID: 6247387715373126391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_grassTrailDown_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 196
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e90899535e39d458c8465ce17d5c60
+      internalID: 6996159766145560094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e0a467239637fd45992d20698ccde57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
