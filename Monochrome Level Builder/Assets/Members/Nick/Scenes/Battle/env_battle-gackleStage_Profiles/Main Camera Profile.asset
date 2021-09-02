@@ -76,13 +76,13 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.294
+    value: 0.271
   smoothness:
     overrideState: 1
-    value: 0.5
+    value: 0.418
   roundness:
     overrideState: 1
-    value: 0.81
+    value: 0.922
   rounded:
     overrideState: 1
     value: 1
@@ -139,10 +139,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 3.47
+    value: 0.47
   threshold:
-    overrideState: 0
-    value: 1
+    overrideState: 1
+    value: 0.35
   softKnee:
     overrideState: 0
     value: 0.5
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
   m_Name: DepthOfField
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
