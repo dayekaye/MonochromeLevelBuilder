@@ -3,7 +3,37 @@ guid: 2a22be222c45d42488466980d03abbca
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainPath-ProtoTex
+    second: {fileID: 2100000, guid: ca9511eaae42bf54a8961097af78791d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 109d279c5b55cec4cb75d261d08b2398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_dirt
+    second: {fileID: 2100000, guid: 39b1e764a26d7d048a9983944c7486ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_frontPlot
+    second: {fileID: 2100000, guid: e0b44a4115cf0cb4aab1b199703cb9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass
+    second: {fileID: 2100000, guid: 21d6d028fa860464e8e810679a76cf5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_mainPath
+    second: {fileID: 2100000, guid: 2b10710203665644bae21058e4e1c079, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
