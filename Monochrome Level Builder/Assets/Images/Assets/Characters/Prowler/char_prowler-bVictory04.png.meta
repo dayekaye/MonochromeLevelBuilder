@@ -1,67 +1,25 @@
 fileFormatVersion: 2
-guid: 4f23f4a0730fde043a64d2e8985e7458
+guid: f5ef423331369a343934f8ddfefb995f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6124365879991916330
-    second: Gackle-Garde-Down-3_0
+      213: 823894613686461735
+    second: char_prowler-bVictory04_0
   - first:
-      213: -1543509334710836145
-    second: Gackle-Garde-Down-3_1
+      213: -7666812862956561090
+    second: char_prowler-bVictory04_1
   - first:
-      213: -5629812518242130795
-    second: Gackle-Garde-Down-3_2
+      213: -7232321977976263397
+    second: char_prowler-bVictory04_2
   - first:
-      213: -4178953690533896468
-    second: Gackle-Garde-Down-3_3
+      213: 3626065312352294148
+    second: char_prowler-bVictory04_3
   - first:
-      213: -4266550665745584626
-    second: Gackle-Garde-Down-3_4
+      213: 7058999760013689002
+    second: char_prowler-bVictory04_4
   - first:
-      213: -5468129553964864927
-    second: Gackle-Garde-Down-3_5
-  - first:
-      213: 4979878896273976893
-    second: Gackle-Garde-Down-3_6
-  - first:
-      213: 8747871048128486282
-    second: Gackle-Garde-Down-3_7
-  - first:
-      213: -8020730388948732920
-    second: Gackle-Garde-Down-3_8
-  - first:
-      213: 3956356707401229971
-    second: Gackle-Garde-Down-3_9
-  - first:
-      213: -588296120334380606
-    second: Gackle-Garde-Down-3_10
-  - first:
-      213: -2687313685478431713
-    second: Gackle-Garde-Down-3_11
-  - first:
-      213: -8452719632459977313
-    second: Gackle-Garde-Down-3_12
-  - first:
-      213: 1451554385085200583
-    second: Gackle-Garde-Down-3_13
-  - first:
-      213: 4390957507953119941
-    second: Gackle-Garde-Down-3_14
-  - first:
-      213: -673319186548293514
-    second: Gackle-Garde-Down-3_15
-  - first:
-      213: 8391485874334762348
-    second: char_gackle-bGardeDown03_0
-  - first:
-      213: -1302345733045073141
-    second: char_gackle-bGardeDown03_1
-  - first:
-      213: -7192701977615635518
-    second: char_gackle-bGardeDown03_2
-  - first:
-      213: 2151002776332963092
-    second: char_gackle-bGardeDown03_3
+      213: -6082722749983964463
+    second: char_prowler-bVictory04_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -177,85 +135,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_gackle-bGardeDown03_0
+      name: char_prowler-bVictory04_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 3072
         width: 1024
         height: 1024
       alignment: 9
-      pivot: {x: 0.58, y: 0.222}
+      pivot: {x: 0.5, y: 0.089}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02ca8f901f788d547965ff5ba7ad949c
-      internalID: 8391485874334762348
+      spriteID: 2e18d4a53c8054944a78d6e68341570f
+      internalID: 823894613686461735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_gackle-bGardeDown03_1
+      name: char_prowler-bVictory04_1
       rect:
         serializedVersion: 2
         x: 1024
-        y: 0
+        y: 3072
         width: 1024
         height: 1024
       alignment: 9
-      pivot: {x: 0.58, y: 0.222}
+      pivot: {x: 0.5, y: 0.089}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd63e15ad707ce4f9684dfe9f02128a
-      internalID: -1302345733045073141
+      spriteID: 2c2808200cc755c45bc87be145a4f760
+      internalID: -7666812862956561090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_gackle-bGardeDown03_2
+      name: char_prowler-bVictory04_2
       rect:
         serializedVersion: 2
         x: 2048
-        y: 0
+        y: 3072
         width: 1024
         height: 1024
       alignment: 9
-      pivot: {x: 0.58, y: 0.222}
+      pivot: {x: 0.5, y: 0.089}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ea47030a82a8a5498e8d288ee14e54d
-      internalID: -7192701977615635518
+      spriteID: 529b7ae108cb4544698c40ba800c63f0
+      internalID: -7232321977976263397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_gackle-bGardeDown03_3
+      name: char_prowler-bVictory04_3
       rect:
         serializedVersion: 2
         x: 3072
-        y: 0
+        y: 3072
         width: 1024
         height: 1024
       alignment: 9
-      pivot: {x: 0.58, y: 0.222}
+      pivot: {x: 0.5, y: 0.089}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd138d5ebbcee04b924f93395a01b39
-      internalID: 2151002776332963092
+      spriteID: 8c3ca4f758b14dd4bb8e70e4cd0b2bb8
+      internalID: 3626065312352294148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_prowler-bVictory04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757cd8451b0201f4f8b102242d8ca8ea
+      internalID: 7058999760013689002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_prowler-bVictory04_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d780d18c34a95b4e931a989693bd251
+      internalID: -6082722749983964463
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b679fefe7ca0b634fbefdb57aef57227
+    spriteID: 5feec921471f5414688ad2c7d8e31aa6
     internalID: 0
     vertices: []
     indices: 
