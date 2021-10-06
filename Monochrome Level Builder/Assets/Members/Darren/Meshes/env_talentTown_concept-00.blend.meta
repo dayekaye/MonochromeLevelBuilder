@@ -47,6 +47,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_chimney-A
+    second: {fileID: 2100000, guid: c00b55ec8e95d174a8257e6a779784e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_chimney-B
+    second: {fileID: 2100000, guid: b681c566949148349a7559330a7ddc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_door
     second: {fileID: 2100000, guid: 0113a088a18f0a449be13ebd2dbcaeb0, type: 2}
   - first:
@@ -59,6 +69,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_fence
     second: {fileID: 2100000, guid: 0557dca4b5344b848a85b73be21839ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gutter
+    second: {fileID: 2100000, guid: 3dfa95ebd49356c46b68aeb63487be99, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
