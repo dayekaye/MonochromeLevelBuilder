@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: af4609d27fbcaea49996a421f19f39ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 491957535684169142
+    second: char_speaker-idleUp01_0
+  - first:
+      213: -2274783813001578748
+    second: char_speaker-idleUp01_1
+  - first:
+      213: -6151059796145118225
+    second: char_speaker-idleUp01_2
+  - first:
+      213: -35991932500235729
+    second: char_speaker-idleUp01_3
+  - first:
+      213: -4381568736707887245
+    second: char_speaker-idleUp01_4
+  - first:
+      213: -6442887867869448842
+    second: char_speaker-idleUp01_5
+  - first:
+      213: 1060598063586993739
+    second: char_speaker-idleUp01_6
+  - first:
+      213: 4629088234088741327
+    second: char_speaker-idleUp01_7
+  - first:
+      213: -3687707919041894104
+    second: char_speaker-idleUp01_8
+  - first:
+      213: 13083407340787923
+    second: char_speaker-idleUp01_9
+  - first:
+      213: 2968245717655024448
+    second: char_speaker-idleUp01_10
+  - first:
+      213: -4514018018441730336
+    second: char_speaker-idleUp01_11
+  - first:
+      213: -3175591772286850364
+    second: char_speaker-idleUp01_12
+  - first:
+      213: 6674735579696253161
+    second: char_speaker-idleUp01_13
+  - first:
+      213: -8645239601907226215
+    second: char_speaker-idleUp01_14
+  - first:
+      213: 1118790687050479823
+    second: char_speaker-idleUp01_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41344ff52735774091c9c87a7d1eb9c
+      internalID: 491957535684169142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1885c770f8b564da65736677166490
+      internalID: -2274783813001578748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181102f82c5b224ca95a0605fb80a73
+      internalID: -6151059796145118225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_3
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce972deb653667343984608adaa30697
+      internalID: -35991932500235729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_4
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d23a0aba6baff4d8e779da88341749
+      internalID: -4381568736707887245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_5
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee463ce4fb203c4b985253ac253d5fe
+      internalID: -6442887867869448842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_6
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7ca4f6b08b6e47b42c9945dd19798
+      internalID: 1060598063586993739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_7
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 893
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435f6b0b60a72b43999fd8f72409719
+      internalID: 4629088234088741327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f281a379eb092d43a004c375513d510
+      internalID: -3687707919041894104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7580a8c8ecdf940be97a529b1f4c20
+      internalID: 13083407340787923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f504b14031e44986731530b289887
+      internalID: 2968245717655024448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735715d35c86ec49bd3bd2104a4a28c
+      internalID: -4514018018441730336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_12
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413f5ba623013245bd88f3ada2f711b
+      internalID: -3175591772286850364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_13
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08debcbdd5f63e24ca9c477f54f854da
+      internalID: 6674735579696253161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_14
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999b3b08d4a8464592f366291971cbc
+      internalID: -8645239601907226215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-idleUp01_15
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 0
+        width: 490
+        height: 893
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe99670644eaca64492e4d9b0019aaf3
+      internalID: 1118790687050479823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e0f704764fc2a4d41add535ce4f3f102
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
