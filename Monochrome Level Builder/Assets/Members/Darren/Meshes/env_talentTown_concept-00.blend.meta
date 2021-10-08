@@ -72,6 +72,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_fence.001
+    second: {fileID: 2100000, guid: dd66ed6940ca6d94aa5403398a6175c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_gutter
     second: {fileID: 2100000, guid: 3dfa95ebd49356c46b68aeb63487be99, type: 2}
   - first:
@@ -84,6 +89,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_railing
     second: {fileID: 2100000, guid: 27ea074887af6a844b5ea48e32de410c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_shingles
+    second: {fileID: 2100000, guid: 8e5e84a8e42aede4ca5c23f5aad4f895, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
