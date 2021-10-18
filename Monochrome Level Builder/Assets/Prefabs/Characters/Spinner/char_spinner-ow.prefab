@@ -210,7 +210,7 @@ GameObject:
   m_Component:
   - component: {fileID: 696305802981852500}
   m_Layer: 0
-  m_Name: char_spinnerspider-ow
+  m_Name: char_spinner-ow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -224,8 +224,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8081195906896358394}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.9564273, y: -0.09793934, z: -0.099609375}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children:
   - {fileID: 7578571533887060676}
   - {fileID: 1891709773740392140}
@@ -305,12 +305,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4122349890568986082, guid: 004070cbc82cc1d42b4e8e82de2f109a,
+    - target: {fileID: 4122349890389969549, guid: 004070cbc82cc1d42b4e8e82de2f109a,
         type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4122349890389969549, guid: 004070cbc82cc1d42b4e8e82de2f109a,
+    - target: {fileID: 4122349890568986082, guid: 004070cbc82cc1d42b4e8e82de2f109a,
         type: 3}
       propertyPath: m_IsActive
       value: 0

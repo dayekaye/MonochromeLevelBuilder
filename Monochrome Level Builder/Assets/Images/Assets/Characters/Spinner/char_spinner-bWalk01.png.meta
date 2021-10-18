@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: 8172615064908458766
     second: char_spinner-bWalk01_0
+  - first:
+      213: -4924068888004023023
+    second: char_spinner-bWalk01_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -127,15 +130,36 @@ TextureImporter:
         y: 0
         width: 512
         height: 1536
-      alignment: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d549ab7053de2c41a5aaae49bc3f047
+      internalID: 8172615064908458766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_spinner-bWalk01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 1536
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f2edc8850708d04aaa33342dd77c1ea
-      internalID: 8172615064908458766
+      spriteID: a14da5d30d4a73343b8b490fefe24456
+      internalID: -4924068888004023023
       vertices: []
       indices: 
       edges: []

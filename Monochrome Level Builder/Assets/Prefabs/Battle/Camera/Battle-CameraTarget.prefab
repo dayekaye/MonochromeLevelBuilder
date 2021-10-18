@@ -425,7 +425,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7781955, y: 1}
+    m_SensorSize: {x: 7.8023257, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -746,7 +746,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _preset: 999
   _quality: 0
-  _profile: {fileID: 0}
+  _profile: {fileID: 11400000, guid: 044fcd9d90ca49844860414da3a401b2, type: 2}
   _syncWithProfile: 1
   _compareMode: 0
   _compareLineAngle: 1.4
@@ -936,7 +936,7 @@ MonoBehaviour:
   _chromaticAberration: 0
   _chromaticAberrationIntensity: 0
   _chromaticAberrationSmoothing: 0
-  isDirty: 1
+  isDirty: 0
   bMat: {fileID: 0}
 --- !u!1 &7682236285774867705
 GameObject:

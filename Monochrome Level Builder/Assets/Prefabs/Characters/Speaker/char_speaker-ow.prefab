@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1272641758103497525}
   - component: {fileID: 1272641758103497526}
   m_Layer: 0
-  m_Name: char_speaker-ow 1
+  m_Name: char_speaker-ow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1272641758103497527}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.94, y: -1.55, z: -0.556869}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 3.65, y: 3.65, z: 3.65}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -69,7 +69,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7201876367875585283, guid: 805290d8486e0764d97f51d345bc529d,
+  m_Sprite: {fileID: -4282442037675605048, guid: 805290d8486e0764d97f51d345bc529d,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
