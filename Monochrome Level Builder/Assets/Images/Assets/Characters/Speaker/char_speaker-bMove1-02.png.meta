@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 54ee599ec49c765489ddaf6df6d40b24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1672821734906454265
+    second: char_speaker-bMove1-02_0
+  - first:
+      213: -3000244111103607229
+    second: char_speaker-bMove1-02_1
+  - first:
+      213: -5840490112873080320
+    second: char_speaker-bMove1-02_2
+  - first:
+      213: -7927158003246121762
+    second: char_speaker-bMove1-02_3
+  - first:
+      213: 491093086621150135
+    second: char_speaker-bMove1-02_4
+  - first:
+      213: -8875226397017953773
+    second: char_speaker-bMove1-02_5
+  - first:
+      213: 2991062213561164814
+    second: char_speaker-bMove1-02_6
+  - first:
+      213: -4612700438625384866
+    second: char_speaker-bMove1-02_7
+  - first:
+      213: -6525374970768884678
+    second: char_speaker-bMove1-02_8
+  - first:
+      213: 397918177619659382
+    second: char_speaker-bMove1-02_9
+  - first:
+      213: 7170597618582527103
+    second: char_speaker-bMove1-02_10
+  - first:
+      213: -6645478958042285856
+    second: char_speaker-bMove1-02_11
+  - first:
+      213: 5038296795373781232
+    second: char_speaker-bMove1-02_12
+  - first:
+      213: -4399842205318311863
+    second: char_speaker-bMove1-02_13
+  - first:
+      213: -7759930007840551933
+    second: char_speaker-bMove1-02_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2978
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c90cc02c7d4434e8d09415b5f5f2a5
+      internalID: -1672821734906454265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2978
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80767e3ba538ded419f12c1e35252d91
+      internalID: -3000244111103607229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2978
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200958b0d08ec4944ae8fcd99c443216
+      internalID: -5840490112873080320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2978
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f408a6b2ad1e103499ef84d256b52287
+      internalID: -7927158003246121762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2978
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef9334b24774c4dbd7726fb66cdff5
+      internalID: 491093086621150135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab383a938700344cab66ede6a046a50
+      internalID: -8875226397017953773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1860
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d288e363fef84986d21fe3a3bc75b
+      internalID: 2991062213561164814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1860
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eadffaf61bb4644086b47ce07ba5d0c
+      internalID: -4612700438625384866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1860
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c5cc92ce9370408a8db91004a6ad9
+      internalID: -6525374970768884678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1860
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2bf80d840363c47ac2df56f5e56c75
+      internalID: 397918177619659382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a0ab55924a2b4bbc867a8ebfe7a96
+      internalID: 7170597618582527103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 742
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ac235108c4c647ba22e3525dc2ef7
+      internalID: -6645478958042285856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 742
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463dd13466d3124cb6d43096d5622a2
+      internalID: 5038296795373781232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 742
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0c5e29c06364498d1cf5e3fe3b288
+      internalID: -4399842205318311863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_speaker-bMove1-02_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 742
+        width: 768
+        height: 1118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac2d8322062ce41a9ec86d89375b8b
+      internalID: -7759930007840551933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca42a67ebc5be7e4fb891b385a33c91b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
