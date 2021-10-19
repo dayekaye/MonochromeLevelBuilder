@@ -107,6 +107,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_tinCan
+    second: {fileID: 2100000, guid: b5cf98a8798ef8e488084bdfef22ff65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tire
+    second: {fileID: 2100000, guid: 62f0cbca975fc9346ad024945519ad02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_window-A
     second: {fileID: 2100000, guid: d3028a6f33b91b34891867f8864df4b1, type: 2}
   - first:
@@ -114,6 +124,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_window-A.001
     second: {fileID: 2100000, guid: d83169eb4730866419be562feaa968ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-B
+    second: {fileID: 2100000, guid: 0d8452a47315acc419a719684bab3af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-C
+    second: {fileID: 2100000, guid: 325b28e34fcfe2f439a90b3b1fd81dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-D
+    second: {fileID: 2100000, guid: d4b70021bd378bd4d8bedf613a8ec202, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
