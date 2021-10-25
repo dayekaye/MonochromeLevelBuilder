@@ -3,7 +3,152 @@ guid: 3bee306941a3a194aa17f9dc1d6d01d5
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 42a1156167e54c24c8f95ff7af3105d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_barrel-base
+    second: {fileID: 2100000, guid: fee341bbab3cf6949b32e72ac439690a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_buildig-B
+    second: {fileID: 2100000, guid: af72f335eca2fd44698881f2c49d9574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building-A
+    second: {fileID: 2100000, guid: 559b615379c942c44a7c1972a73ec93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building-B
+    second: {fileID: 2100000, guid: 2728eae489678444b893d84567d8d9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building-C
+    second: {fileID: 2100000, guid: ae2671429094fb6479521c8ea95b8ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cable
+    second: {fileID: 2100000, guid: 8e7076f644658f04a9532e8727976fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_charOtto
+    second: {fileID: 2100000, guid: d469d1314494bab43869cb9718fb0f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_chimney-A
+    second: {fileID: 2100000, guid: c00b55ec8e95d174a8257e6a779784e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_chimney-B
+    second: {fileID: 2100000, guid: b681c566949148349a7559330a7ddc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_door
+    second: {fileID: 2100000, guid: 0113a088a18f0a449be13ebd2dbcaeb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_edge
+    second: {fileID: 2100000, guid: 2a5558c1a5bc00d479abe85c733b58ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fence
+    second: {fileID: 2100000, guid: 0557dca4b5344b848a85b73be21839ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fence.001
+    second: {fileID: 2100000, guid: dd66ed6940ca6d94aa5403398a6175c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gutter
+    second: {fileID: 2100000, guid: 3dfa95ebd49356c46b68aeb63487be99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pallet
+    second: {fileID: 2100000, guid: 2192f0a14528a554fb852d07eb34a411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_railing
+    second: {fileID: 2100000, guid: 27ea074887af6a844b5ea48e32de410c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_shingles
+    second: {fileID: 2100000, guid: 8e5e84a8e42aede4ca5c23f5aad4f895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_steps
+    second: {fileID: 2100000, guid: 83cf637ac29e00b46910194eae3867f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_steps.001
+    second: {fileID: 2100000, guid: 7315ecd4d4d216946827547218a2c96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tinCan
+    second: {fileID: 2100000, guid: b5cf98a8798ef8e488084bdfef22ff65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tire
+    second: {fileID: 2100000, guid: 62f0cbca975fc9346ad024945519ad02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-A
+    second: {fileID: 2100000, guid: d3028a6f33b91b34891867f8864df4b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-A.001
+    second: {fileID: 2100000, guid: d83169eb4730866419be562feaa968ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-B
+    second: {fileID: 2100000, guid: 0d8452a47315acc419a719684bab3af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-C
+    second: {fileID: 2100000, guid: 325b28e34fcfe2f439a90b3b1fd81dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_window-D
+    second: {fileID: 2100000, guid: d4b70021bd378bd4d8bedf613a8ec202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh_talentTown-ground copy
+    second: {fileID: 2100000, guid: 207274c7dada80e48b6762e0d90c98f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mid_talentTown-building-01 copy
+    second: {fileID: 2100000, guid: 13fff55743170da4da38b1eb837fe450, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -38,12 +183,12 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
