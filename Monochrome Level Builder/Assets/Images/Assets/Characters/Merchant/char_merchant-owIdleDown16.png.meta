@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0fada1ef45a088469a09e626eea4de6
+guid: 8fcb0091806d822449de4d4833037ff3
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -8,6 +8,24 @@ TextureImporter:
   - first:
       213: -5256121243873925012
     second: char_merchant-owIdleDown16_1
+  - first:
+      213: -191840366034532922
+    second: char_merchant-owIdleDown16_2
+  - first:
+      213: -6550801412389978552
+    second: char_merchant-owIdleDown16_3
+  - first:
+      213: 1342625023767347368
+    second: char_merchant-owIdleDown16_4
+  - first:
+      213: -2484495192012529345
+    second: char_merchant-owIdleDown16_5
+  - first:
+      213: 2228099143915160186
+    second: char_merchant-owIdleDown16_6
+  - first:
+      213: 5939863584319263040
+    second: char_merchant-owIdleDown16_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -86,6 +104,39 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -104,7 +155,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 617616996ff70ea408e4959f6694059a
+      spriteID: a1bfe707a9f6c23438b97b9580416229
       internalID: -434410464974967637
       vertices: []
       indices: 
@@ -125,8 +176,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ee86f5dc4ef58046b931802324103db
+      spriteID: 5343626f67ae1c74db3a0db7729766cc
       internalID: -5256121243873925012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2304
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a19e9ad1d27f2448dad4fb4598360c
+      internalID: -191840366034532922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2304
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a610262b6f1b144bea4cc1ada208c4
+      internalID: -6550801412389978552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101eac12a19a6ef409a9840a85b2e27e
+      internalID: 1342625023767347368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2755af63f293743b7dc3fce145a7a9
+      internalID: -2484495192012529345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779030d0327f5243a80f4bf57e0cfd5
+      internalID: 2228099143915160186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_merchant-owIdleDown16_7
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 1024
+        height: 1792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4ec4a0433b5f448dcc7232877bed8
+      internalID: 5939863584319263040
       vertices: []
       indices: 
       edges: []
@@ -134,7 +311,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 486e37a20712aa740b1b19e20a0bc024
+    spriteID: 71c23271ef3f99646a2fa7c418eaafe2
     internalID: 0
     vertices: []
     indices: 
