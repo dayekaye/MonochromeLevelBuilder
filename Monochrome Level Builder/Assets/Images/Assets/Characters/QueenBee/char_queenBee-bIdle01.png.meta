@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 4fe47c2387b2ca648a25dc8fc0f19160
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4386171994405135632
+    second: char_queenBee-bIdle01_0
+  - first:
+      213: 8521653181053131245
+    second: char_queenBee-bIdle01_1
+  - first:
+      213: -6308780308169094860
+    second: char_queenBee-bIdle01_2
+  - first:
+      213: 2816980838074491542
+    second: char_queenBee-bIdle01_3
+  - first:
+      213: -2424849943786571157
+    second: char_queenBee-bIdle01_4
+  - first:
+      213: -8709590601824619980
+    second: char_queenBee-bIdle01_5
+  - first:
+      213: -6924874569443380354
+    second: char_queenBee-bIdle01_6
+  - first:
+      213: -3978128211706597971
+    second: char_queenBee-bIdle01_7
+  - first:
+      213: -653540720106624926
+    second: char_queenBee-bIdle01_8
+  - first:
+      213: -574808540460802476
+    second: char_queenBee-bIdle01_9
+  - first:
+      213: -1102873143125062150
+    second: char_queenBee-bIdle01_10
+  - first:
+      213: -2341050523169062215
+    second: char_queenBee-bIdle01_11
+  - first:
+      213: 2432990887883353817
+    second: char_queenBee-bIdle01_12
+  - first:
+      213: 6481125843263210769
+    second: char_queenBee-bIdle01_13
+  - first:
+      213: -6683373925145372134
+    second: char_queenBee-bIdle01_14
+  - first:
+      213: -5261966291620750015
+    second: char_queenBee-bIdle01_15
+  - first:
+      213: 2637255194316361022
+    second: char_queenBee-bIdle01_16
+  - first:
+      213: 288985255366662586
+    second: char_queenBee-bIdle01_17
+  - first:
+      213: -9175590394674622637
+    second: char_queenBee-bIdle01_18
+  - first:
+      213: 1533145641592080457
+    second: char_queenBee-bIdle01_19
+  - first:
+      213: -610300342601255743
+    second: char_queenBee-bIdle01_20
+  - first:
+      213: 3886927134705129228
+    second: char_queenBee-bIdle01_21
+  - first:
+      213: -1627092471082642061
+    second: char_queenBee-bIdle01_22
+  - first:
+      213: -2932552296544475111
+    second: char_queenBee-bIdle01_23
+  - first:
+      213: 7272375048889012756
+    second: char_queenBee-bIdle01_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a391747c50f3c438671974ce6f6131
+      internalID: 4386171994405135632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58523ca4deefd4c97e4b2813280cb2
+      internalID: 8521653181053131245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4e3828934eec48ba420887585a782
+      internalID: -6308780308169094860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d7f447da926141b8ac2e2a7947daf
+      internalID: 2816980838074491542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4624f9e3dfa94c82c31f07a3406c3
+      internalID: -2424849943786571157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334f47f725b3514fb6ec87d680c9707
+      internalID: -8709590601824619980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602bbf389e94ec240ae6c98867e73ce3
+      internalID: -6924874569443380354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01fd09174ee8b4ca3a895b7e52557b
+      internalID: -3978128211706597971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f263258c73940443a2494b00cbca49c
+      internalID: -653540720106624926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69c77656cdd79459f2b1a407e50bbb
+      internalID: -574808540460802476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64d60068dacbe47a0ba54209c27fc2
+      internalID: -1102873143125062150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64879814e5a3f554398d27bb4fca7bae
+      internalID: -2341050523169062215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bbcdee2266a9e45800b8666687baf3
+      internalID: 2432990887883353817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00287bdcbdd5d44fa1ef32d75b242e1
+      internalID: 6481125843263210769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c531f9e382614b921535009b82c27
+      internalID: -6683373925145372134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338c674396dd6c40ba91e8fe0f89f61
+      internalID: -5261966291620750015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf0c0cd55faef44a5d960a92a7f1ab
+      internalID: 2637255194316361022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632fb990efc9a604fb06c84227a369b5
+      internalID: 288985255366662586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cee4ce6fb7c3341a19988f12f7dc1f
+      internalID: -9175590394674622637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94c7d9e02cde74eae5727d5101870d
+      internalID: 1533145641592080457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3447b999c9175c74298610bb157ab066
+      internalID: -610300342601255743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89f3a4a08e6a34585a71ff092d3e25
+      internalID: 3886927134705129228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a104f54b4ac0b4ab4990db43417c6b
+      internalID: -1627092471082642061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f89249300ec3c4686b3e65f93b308a
+      internalID: -2932552296544475111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_queenBee-bIdle01_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acbf2f6d0e14e47b69fa02d4e29ce0
+      internalID: 7272375048889012756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 255975b223ea8f9498870a7acbb82bec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

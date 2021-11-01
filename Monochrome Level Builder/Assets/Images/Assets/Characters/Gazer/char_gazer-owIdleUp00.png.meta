@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: f7941bed13b81464f911056cd7e77f5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7833343329692577997
+    second: char_gazer-owIdleUp00_0
+  - first:
+      213: 2358661756365563359
+    second: char_gazer-owIdleUp00_1
+  - first:
+      213: 2460779859980458600
+    second: char_gazer-owIdleUp00_2
+  - first:
+      213: 4990165082208840568
+    second: char_gazer-owIdleUp00_3
+  - first:
+      213: 4102647043719509674
+    second: char_gazer-owIdleUp00_4
+  - first:
+      213: 8735122630669560806
+    second: char_gazer-owIdleUp00_5
+  - first:
+      213: 2802948280992037257
+    second: char_gazer-owIdleUp00_6
+  - first:
+      213: -9110745513411756189
+    second: char_gazer-owIdleUp00_7
+  - first:
+      213: 2893206130856494758
+    second: char_gazer-owIdleUp00_8
+  - first:
+      213: -577890259141871450
+    second: char_gazer-owIdleUp00_9
+  - first:
+      213: -2248844056660858220
+    second: char_gazer-owIdleUp00_10
+  - first:
+      213: 1782771815172256403
+    second: char_gazer-owIdleUp00_11
+  - first:
+      213: -3719469283909352136
+    second: char_gazer-owIdleUp00_12
+  - first:
+      213: -4451590037888480400
+    second: char_gazer-owIdleUp00_13
+  - first:
+      213: -2787401372700616746
+    second: char_gazer-owIdleUp00_14
+  - first:
+      213: 1505731540231244679
+    second: char_gazer-owIdleUp00_15
+  - first:
+      213: 8909716088307881968
+    second: char_gazer-owIdleUp00_16
+  - first:
+      213: 4307437739042692042
+    second: char_gazer-owIdleUp00_17
+  - first:
+      213: 6868680400936355088
+    second: char_gazer-owIdleUp00_18
+  - first:
+      213: -2854762090855165820
+    second: char_gazer-owIdleUp00_19
+  - first:
+      213: -6919806708627553875
+    second: char_gazer-owIdleUp00_20
+  - first:
+      213: -1777043985645718629
+    second: char_gazer-owIdleUp00_21
+  - first:
+      213: 2907326243552967226
+    second: char_gazer-owIdleUp00_22
+  - first:
+      213: -3630105876581570607
+    second: char_gazer-owIdleUp00_23
+  - first:
+      213: 7789201282250501692
+    second: char_gazer-owIdleUp00_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3411
+        width: 429
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6c580560377d43a9da8572e1f30ce
+      internalID: 7833343329692577997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_1
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3411
+        width: 429
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a521f841ffe81429158574302d661e
+      internalID: 2358661756365563359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_2
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 3412
+        width: 434
+        height: 546
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3991e414631b0f40b248ef093b1a731
+      internalID: 2460779859980458600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_3
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 3412
+        width: 434
+        height: 546
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c5245671dac74ab4b2b20c810e00f
+      internalID: 4990165082208840568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_4
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 3412
+        width: 434
+        height: 546
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dddf5c14ab7b04fbcf7c44b701b499
+      internalID: 4102647043719509674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2645
+        width: 424
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130b4de49c16ba46be4277b479642c5
+      internalID: 8735122630669560806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2645
+        width: 424
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dad96b65054b544bd970f31893594f
+      internalID: 2802948280992037257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_7
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2645
+        width: 424
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8bfcb1ddcc02149813a424a8a5c5fc
+      internalID: -9110745513411756189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_8
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2645
+        width: 429
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bac9e1ecf15bc4e853f6da7f0224cd
+      internalID: 2893206130856494758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2645
+        width: 429
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17388d44d4751164d8aac63a99e95dfb
+      internalID: -577890259141871450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1877
+        width: 429
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad252b7e5b0cf48a9e55a39c21d32d
+      internalID: -2248844056660858220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1877
+        width: 429
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc8027de4979843b85165bccc0127b
+      internalID: 1782771815172256403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_12
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1876
+        width: 432
+        height: 534
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb4df5dc3a6c94d8b7d5b411ccfbbd
+      internalID: -3719469283909352136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_13
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1876
+        width: 432
+        height: 534
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c10a94077a7c4a9eadae02f64ea37
+      internalID: -4451590037888480400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_14
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 1876
+        width: 432
+        height: 534
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd1727747d6b743a246f21fbdb4129
+      internalID: -2787401372700616746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1109
+        width: 440
+        height: 519
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860957f7ac39ef4db7eb62413e09853
+      internalID: 1505731540231244679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1109
+        width: 440
+        height: 519
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656d2ee03a79b1489ecfa1bba500363
+      internalID: 8909716088307881968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_17
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1109
+        width: 440
+        height: 519
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eccd50a759edc4b86edeba169c9d04
+      internalID: 4307437739042692042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_18
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1109
+        width: 439
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dab600c04be0d4a882b4119a0b5f1d
+      internalID: 6868680400936355088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_19
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1109
+        width: 439
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa649b12a545f9247b11a187d011344f
+      internalID: -2854762090855165820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 341
+        width: 439
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a665497d39eba543b1536509dc7c9b5
+      internalID: -6919806708627553875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 341
+        width: 440
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e0ebbe238c0e4e90c9c0c0542c8c0
+      internalID: -1777043985645718629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 341
+        width: 440
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546aea452fdeb354497c6488614dd798
+      internalID: 2907326243552967226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_23
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 340
+        width: 441
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4692a92bd1c0c0439c99c878b01dd73
+      internalID: -3630105876581570607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp00_24
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 340
+        width: 441
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5f03a55cde494eb831ea70b6e6494
+      internalID: 7789201282250501692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b237c5e576b376f42b366c454ca912c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
