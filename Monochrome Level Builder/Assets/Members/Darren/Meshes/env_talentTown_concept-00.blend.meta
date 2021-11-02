@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Asset_MG_garbage_pile
+    second: {fileID: 2100000, guid: 2de462267830b1c40a9385778b340fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
     second: {fileID: 2100000, guid: 42a1156167e54c24c8f95ff7af3105d0, type: 2}
   - first:
@@ -87,6 +92,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_pipes
+    second: {fileID: 2100000, guid: 6ac068743267e18468509ac666e99044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_railing
     second: {fileID: 2100000, guid: 27ea074887af6a844b5ea48e32de410c, type: 2}
   - first:
@@ -114,6 +124,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_tire
     second: {fileID: 2100000, guid: 62f0cbca975fc9346ad024945519ad02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_trashCan
+    second: {fileID: 2100000, guid: c071382cd08447f4490b27bd079602b9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
