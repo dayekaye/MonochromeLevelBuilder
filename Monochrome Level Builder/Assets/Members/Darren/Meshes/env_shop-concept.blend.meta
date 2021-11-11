@@ -3,7 +3,62 @@ guid: 0cf509fa722b7854f842ecd56b1fcab6
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 84d6680731bbfeb478a6f1acc9f6191c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d26e6df167e619c418f2386c370e7987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: char_otto-bIdle01
+    second: {fileID: 2100000, guid: aee4c5adc5b3da540b7cb9efd26891e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_door
+    second: {fileID: 2100000, guid: e87eaa54a1084324cbe0a97300a06a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_floor
+    second: {fileID: 2100000, guid: 183f41012b5b819468a9f3a0939cd36e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_mainShelf
+    second: {fileID: 2100000, guid: d92f9c1e6d724d446be06f30f099fb7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_shelf
+    second: {fileID: 2100000, guid: 0b1ed7703e5e8c24792f0edd48793359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_shelf-2
+    second: {fileID: 2100000, guid: 2e9e2e51bb18e9241845c4620a941c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wall
+    second: {fileID: 2100000, guid: ff723135b0d7e8a49a7d64de2568ab8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wallShelf
+    second: {fileID: 2100000, guid: 358e2b16f191b2b4285406acb5132581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen_4096x4096_2021-10-19_10-27-58
+    second: {fileID: 2100000, guid: 1bbc1cd43673dfc429633e016ee6be0a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
