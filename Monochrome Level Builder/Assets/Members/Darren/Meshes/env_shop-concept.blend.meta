@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: dec_hallwayCarpet
+    second: {fileID: 2100000, guid: 6dbd42f5c2de51f4a9f29d858de263c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_door
     second: {fileID: 2100000, guid: e87eaa54a1084324cbe0a97300a06a9a, type: 2}
   - first:
