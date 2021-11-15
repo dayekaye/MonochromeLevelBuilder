@@ -12,8 +12,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9293ddee3ea506849b07c2e05f56ec6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0483ba9119ce8d8418b56160e6c75400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
     second: {fileID: 2100000, guid: 516b6343cf6aa2f4a903094bf31d7ddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emmissive
+    second: {fileID: 2100000, guid: 840535d54d33e6f4a8150af61a1266ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emmissive2
+    second: {fileID: 2100000, guid: 0dba534ad22afaf41bc6097c2397a7b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emmissive3
+    second: {fileID: 2100000, guid: 74813c39ccd08e0489a582b75e127ab0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -37,6 +62,31 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_cutout_bird
+    second: {fileID: 2100000, guid: ef0fb01b27554484f8bf83aa27705c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cutout_bush
+    second: {fileID: 2100000, guid: 46b9984c70eb2594bbd23dfdb0fde2aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cutout_cloud
+    second: {fileID: 2100000, guid: c676505ae04f1804f80e31acde76d3ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cutout_trashCan
+    second: {fileID: 2100000, guid: 3e33e1805c17c7b49b80d5c44a47b800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cutout_tree
+    second: {fileID: 2100000, guid: e8d8e9393dc617a43a8d27a774bce609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_lightGrey
     second: {fileID: 2100000, guid: e67bc417ee7fe2c4f82cf59c45f04ee1, type: 2}
   - first:
@@ -49,6 +99,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_woodFloor
     second: {fileID: 2100000, guid: b746587df9d6eef43b62663cf8d1e0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reflective
+    second: {fileID: 2100000, guid: da35cf3219e370845bac654112954296, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -83,12 +138,12 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
