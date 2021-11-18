@@ -17,8 +17,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: OttosInterior_Upstairs_3
+    second: {fileID: 2100000, guid: 5ed6ecaf64f49d04e886afff3e9826f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: char_otto-bIdle01
     second: {fileID: 2100000, guid: aee4c5adc5b3da540b7cb9efd26891e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dec_hallwayCarpet
+    second: {fileID: 2100000, guid: b099ad87499f9ef40af25671c805b176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_backShelves
+    second: {fileID: 2100000, guid: ed20d7b190cfc444184f0560de58972b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_barrel-base
+    second: {fileID: 2100000, guid: 498304c4b56edec4ebed3a73756e5b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cashRegister
+    second: {fileID: 2100000, guid: b639b996177bfc5459a52f596768836a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
