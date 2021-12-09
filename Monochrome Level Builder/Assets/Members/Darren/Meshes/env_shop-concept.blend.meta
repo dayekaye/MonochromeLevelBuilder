@@ -32,6 +32,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat-cashierDesk-Top
+    second: {fileID: 2100000, guid: 6a632b1b5d2d676409737ed08fe5e71c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_backShelves
     second: {fileID: 2100000, guid: ed20d7b190cfc444184f0560de58972b, type: 2}
   - first:
@@ -57,6 +62,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Jars
+    second: {fileID: 2100000, guid: eaf6e46cf0a4cb645889c67ffde9b2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Pot
+    second: {fileID: 2100000, guid: 28f07f82d60a0284ab894bd7afaa721a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Shelf
+    second: {fileID: 2100000, guid: 4d3f84ec30fdada4aaf265f4c9e78c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_mainShelf
     second: {fileID: 2100000, guid: d92f9c1e6d724d446be06f30f099fb7c, type: 2}
   - first:
@@ -72,8 +92,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_sign-Sin&Tonic
+    second: {fileID: 2100000, guid: 1a8ff37a67a05d54ba1c71c468d8c466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_FunnyHoney
+    second: {fileID: 2100000, guid: beb9995b72ed1354a9af78c87a3a3c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_wall
     second: {fileID: 2100000, guid: ff723135b0d7e8a49a7d64de2568ab8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wallLights
+    second: {fileID: 2100000, guid: 47cacf2c0e0876d4fad11e424741d99a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
