@@ -1,7 +1,31 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 47013f4218c232e408be1fc5929118e6
 TextureImporter:
   internalIDToNameTable: []
+=======
+guid: 28f7aa9a39e7d724a9e50df1dde678bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1366638282474675591
+    second: char_hairyPerry-bIdle03_0
+  - first:
+      213: 5753179872805555000
+    second: char_hairyPerry-bIdle03_1
+  - first:
+      213: 2843768283691640344
+    second: char_hairyPerry-bIdle03_2
+  - first:
+      213: 4131549727120041371
+    second: char_hairyPerry-bIdle03_3
+  - first:
+      213: 7477099175772822771
+    second: char_hairyPerry-bIdle03_4
+  - first:
+      213: -2152066691407434226
+    second: char_hairyPerry-bIdle03_5
+>>>>>>> origin/animation/characterImplementation-next
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -60,7 +84,11 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
+<<<<<<< HEAD
     maxTextureSize: 8192
+=======
+    maxTextureSize: 4096
+>>>>>>> origin/animation/characterImplementation-next
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -71,6 +99,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
+<<<<<<< HEAD
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
@@ -105,6 +134,9 @@ TextureImporter:
   - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 8192
+=======
+    maxTextureSize: 4096
+>>>>>>> origin/animation/characterImplementation-next
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,11 +147,145 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites: []
     outline: []
     physicsShape: []
     bones: []
     spriteID: 13919260075b59c4b989ee4b85b3a531
+=======
+    sprites:
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8fe5a1344e434badfb9b0586fc47c
+      internalID: -1366638282474675591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2596
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51287aaa1d475445962b1ea52a1c2f9
+      internalID: 5753179872805555000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2596
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982073b84f1c7ca4f9d5febd182800ae
+      internalID: 2843768283691640344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5538b557680f74182bcb05092067db
+      internalID: 4131549727120041371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1096
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a8e3e80f823444a3b02b024cdd227
+      internalID: 7477099175772822771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hairyPerry-bIdle03_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1096
+        width: 1280
+        height: 1500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319383a93db8ff49a18eba89634c6af
+      internalID: -2152066691407434226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 030cfd6b9d800864995ec65fa6862e37
+>>>>>>> origin/animation/characterImplementation-next
     internalID: 0
     vertices: []
     indices: 
