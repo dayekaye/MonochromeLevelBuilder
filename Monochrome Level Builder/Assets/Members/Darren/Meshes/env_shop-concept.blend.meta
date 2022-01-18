@@ -47,6 +47,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat-giftBox
+    second: {fileID: 2100000, guid: 2b48738dc8aa55441aee20f32ac6e515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_FunnyHoneyJar
     second: {fileID: 2100000, guid: 782804b0227b58d48ac45e1359080199, type: 2}
   - first:
@@ -69,6 +74,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_cashRegister
     second: {fileID: 2100000, guid: edb5afcf7e5695441892f09332b506bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cashRegister-buttons
+    second: {fileID: 2100000, guid: acad24229d1713241b1796a1ba7f7d4e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
