@@ -62,6 +62,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_banner
+    second: {fileID: 2100000, guid: d06e140b7d57e2a419a68c05ca403963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_banner.001
+    second: {fileID: 2100000, guid: b8bc79d1aa1480548845c131681bca5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_banner.002
+    second: {fileID: 2100000, guid: 38614deae2d85f54498a45b38f0e416b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_barrel-base
     second: {fileID: 2100000, guid: cd5f631255bb9d64cb02e55d6f845d12, type: 2}
   - first:
@@ -149,6 +164,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_sign_FunnyHoney
     second: {fileID: 2100000, guid: 726084510ec4d7640b61e51d08cc6ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_thunderWear
+    second: {fileID: 2100000, guid: 7e96229b8d447eb489bb10e6f5f1a2da, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
