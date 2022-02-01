@@ -3,7 +3,177 @@ guid: 0cf509fa722b7854f842ecd56b1fcab6
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book0_material
+    second: {fileID: 2100000, guid: c6d0cf1d5f5ed044c8e2d3970ff2ec91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book0_side_material
+    second: {fileID: 2100000, guid: 8c1030cab37bde843bcfa858312a6032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e8df69c225838b5419290e86dc3a1d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OttosInterior_Upstairs_3
+    second: {fileID: 2100000, guid: e8bb52459863e484b8c2d0d17c3ce0ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UV-Checker
+    second: {fileID: 2100000, guid: 9725870f3e74e834187e974c9d46cd0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: char_otto-bIdle01
+    second: {fileID: 2100000, guid: c5c262b5f4d846c43839d7c9a0530822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dec_hallwayCarpet
+    second: {fileID: 2100000, guid: 4cdc7ee2c59ba9d45b42ebe176938e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat-cashierDesk-Top
+    second: {fileID: 2100000, guid: ce53d1b395b43df48b270101d79a7ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_FunnyHoneyJar
+    second: {fileID: 2100000, guid: 782804b0227b58d48ac45e1359080199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_backShelves
+    second: {fileID: 2100000, guid: 9271bc9a37fd26b408c2cec9621e83f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_barrel-base
+    second: {fileID: 2100000, guid: cd5f631255bb9d64cb02e55d6f845d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cardBoardBoxes
+    second: {fileID: 2100000, guid: b7ecdfbff1bb5a44ebcf3335a21e5d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cashRegister
+    second: {fileID: 2100000, guid: edb5afcf7e5695441892f09332b506bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cashier
+    second: {fileID: 2100000, guid: 9995b9f1eed7c2f4c9c8f024777c37b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_crate_boxes
+    second: {fileID: 2100000, guid: 4d5ecf28788b07c4daa0d80c8d9bac1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_door
+    second: {fileID: 2100000, guid: caed78136128c4040acc32ec285504cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_floor
+    second: {fileID: 2100000, guid: b5788a04d0af7964eb89e7252d907089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Jars
+    second: {fileID: 2100000, guid: 3af8be32d7edbcb468e4c3c3b21272b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Pot
+    second: {fileID: 2100000, guid: ebd5018a0cd4e5245a120901c4498d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_funnyHoney-Shelf
+    second: {fileID: 2100000, guid: 169b0f362d7134048abe72052eb57f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_mainShelf
+    second: {fileID: 2100000, guid: b19b4a9122cd6d64794cf10b41af3895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pictureFrame-A
+    second: {fileID: 2100000, guid: b4e452ea475690242aff472773da1c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pictureFrame-B
+    second: {fileID: 2100000, guid: 606309ca3757da04bbfdd24c8bfe9694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign-Sin&Tonic
+    second: {fileID: 2100000, guid: 177d7f4c674fd4744af2d88be3e1ff71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign-Sin&Tonic.001
+    second: {fileID: 2100000, guid: ca6e29b0e88698447b5e10fb16377aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign-Thunderwear
+    second: {fileID: 2100000, guid: 84affb06dc236a94683c9152bed25c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_FunnyHoney
+    second: {fileID: 2100000, guid: 726084510ec4d7640b61e51d08cc6ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_trashCan
+    second: {fileID: 2100000, guid: a47f59a68425398499351661608214c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wall
+    second: {fileID: 2100000, guid: 94b24aaf6df6bd4478981235d7f91e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wallLights
+    second: {fileID: 2100000, guid: 1e34f3a3ca0e7eb4cb12554cb75bf7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wallShelf
+    second: {fileID: 2100000, guid: b8f0d4c50a279214f9f4634ff94db5d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_woodBeams
+    second: {fileID: 2100000, guid: c694aeb8e6db73c4b8c9ea4dbab6dd99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen_4096x4096_2021-10-19_10-27-58
+    second: {fileID: 2100000, guid: 2bd1720b71bc43e4587d885c41bbd43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uv-checker
+    second: {fileID: 2100000, guid: e7df666152ee3be48b0bbca4776892a9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -86,7 +256,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

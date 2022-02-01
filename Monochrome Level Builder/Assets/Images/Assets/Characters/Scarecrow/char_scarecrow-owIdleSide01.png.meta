@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 459c082ea70249c4bb192f05e21447d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4622361511665348261
+    second: char_scarecrow-owIdleSide01_0
+  - first:
+      213: -6974578591236163499
+    second: char_scarecrow-owIdleSide01_1
+  - first:
+      213: -988944359808187674
+    second: char_scarecrow-owIdleSide01_2
+  - first:
+      213: -46888533953170748
+    second: char_scarecrow-owIdleSide01_3
+  - first:
+      213: -2492070487242991976
+    second: char_scarecrow-owIdleSide01_4
+  - first:
+      213: -925767665752560324
+    second: char_scarecrow-owIdleSide01_5
+  - first:
+      213: 3259215085710331734
+    second: char_scarecrow-owIdleSide01_6
+  - first:
+      213: 3978568368436784228
+    second: char_scarecrow-owIdleSide01_7
+  - first:
+      213: 3330397069998712194
+    second: char_scarecrow-owIdleSide01_8
+  - first:
+      213: 2534003480146104057
+    second: char_scarecrow-owIdleSide01_9
+  - first:
+      213: 8178288935901254695
+    second: char_scarecrow-owIdleSide01_10
+  - first:
+      213: -7186389616411066308
+    second: char_scarecrow-owIdleSide01_11
+  - first:
+      213: -6816763303346475640
+    second: char_scarecrow-owIdleSide01_12
+  - first:
+      213: 3554062085714151959
+    second: char_scarecrow-owIdleSide01_13
+  - first:
+      213: -3491739946621896786
+    second: char_scarecrow-owIdleSide01_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 522
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a277d53b9ebfb714fbcaa7c5b3d8314c
+      internalID: 4622361511665348261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c0ae9a5dd9b74489683808936aa76
+      internalID: -6974578591236163499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487c3e6442cb4d4c8933df148b6ba32
+      internalID: -988944359808187674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25a3f1f6471364b9eb2332371cd190
+      internalID: -46888533953170748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2672
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ff2736ac0a8a48a6baeddbf2e1531
+      internalID: -2492070487242991976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12714bb1540e7a745a4635934d17006d
+      internalID: -925767665752560324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec77f265a1502449049d258377416b
+      internalID: 3259215085710331734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457a8a5702d5484c9529a9b0efe8e20
+      internalID: 3978568368436784228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab600159e30fc4592c73832a36e815
+      internalID: 3330397069998712194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1336
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff69b48b4fcf8479640c72b13f1afb
+      internalID: 2534003480146104057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c745e6f531a8374cabfe9f0d73da7f2
+      internalID: 8178288935901254695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1a4e6b217d194a8bb99d2a5965157
+      internalID: -7186389616411066308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d20ca5b58f2da4c8376a00349cb37f
+      internalID: -6816763303346475640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fffa946b385e545b98e4d082c47c5a
+      internalID: 3554062085714151959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_scarecrow-owIdleSide01_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 768
+        height: 1336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d728ecdb2586854c8def900eec1cea2
+      internalID: -3491739946621896786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03771ae0d69441642a299142bc033540
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,40 +1,7 @@
 fileFormatVersion: 2
-guid: 0f1ed9c2269ec1748aeed8d5ea34877e
+guid: 01907759f290fd147973697a3ab129ed
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -316478697788122021
-    second: fx_actor-motivated01_0
-  - first:
-      213: 8714927059534179947
-    second: fx_actor-motivated01_1
-  - first:
-      213: -619550576032754341
-    second: fx_actor-motivated01_2
-  - first:
-      213: 1785466835554156825
-    second: fx_actor-motivated01_3
-  - first:
-      213: -5853180702409861766
-    second: fx_actor-motivated01_4
-  - first:
-      213: 793914836867960630
-    second: fx_actor-motivated01_5
-  - first:
-      213: -4106613437658707644
-    second: fx_actor-motivated01_6
-  - first:
-      213: -8023751028317652941
-    second: fx_actor-motivated01_7
-  - first:
-      213: 8778175367206561006
-    second: fx_actor-motivated01_8
-  - first:
-      213: -2806569570907039837
-    second: fx_actor-motivated01_9
-  - first:
-      213: 8243935446728256743
-    second: fx_actor-motivated01_10
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -73,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,51 +60,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -148,242 +71,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: fx_actor-motivated01_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3072
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b22eaacecf635b84696b67e0dc04257a
-      internalID: -316478697788122021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_1
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 3072
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2c08cb35206e4a4ca47a999be1ba48f
-      internalID: 8714927059534179947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_2
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 3072
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e55dfb15e10e88049aec478a31be82f6
-      internalID: -619550576032754341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_3
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 3072
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd84394748196cd46955adb37e502c48
-      internalID: 1785466835554156825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_4
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 3072
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a17c6d8fa551a444eaa03308fed46694
-      internalID: -5853180702409861766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 489190376d1784d4689c85a087bb61dc
-      internalID: 793914836867960630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_6
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb3e1cc9b0e522e4287c06fdfd8fce93
-      internalID: -4106613437658707644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_7
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507ea0072d5215f49beaddbd875408fc
-      internalID: -8023751028317652941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_8
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6130faa69bed6a44919189090479ad5
-      internalID: 8778175367206561006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_9
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 2304
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6bcce718afd6f0145865e5981ca2ce2a
-      internalID: -2806569570907039837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fx_actor-motivated01_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ec9c17c220e8844c8429667f8deb5b2
-      internalID: 8243935446728256743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 0f4a685019f432e4d8e1814dbbcb8f28
+    spriteID: d60eaab708773404fadea836a1658f32
     internalID: 0
     vertices: []
     indices: 

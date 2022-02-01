@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 09ce1325afd971e448390152df700fe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6596683892624768992
+    second: char_squeakySquirrel-bIdle00_0
+  - first:
+      213: -6920242392830072425
+    second: char_squeakySquirrel-bIdle00_1
+  - first:
+      213: -5055526635337479309
+    second: char_squeakySquirrel-bIdle00_2
+  - first:
+      213: 3899350158796647776
+    second: char_squeakySquirrel-bIdle00_3
+  - first:
+      213: -4639734030066125269
+    second: char_squeakySquirrel-bIdle00_4
+  - first:
+      213: 1494375073517147695
+    second: char_squeakySquirrel-bIdle00_5
+  - first:
+      213: -2248971885699694537
+    second: char_squeakySquirrel-bIdle00_6
+  - first:
+      213: -5889782078822506215
+    second: char_squeakySquirrel-bIdle00_7
+  - first:
+      213: 9216555394642353320
+    second: char_squeakySquirrel-bIdle00_8
+  - first:
+      213: 3445675702659446742
+    second: char_squeakySquirrel-bIdle00_9
+  - first:
+      213: -7254086071969734491
+    second: char_squeakySquirrel-bIdle00_10
+  - first:
+      213: 4935750676291922302
+    second: char_squeakySquirrel-bIdle00_11
+  - first:
+      213: 1220055061661196274
+    second: char_squeakySquirrel-bIdle00_12
+  - first:
+      213: 4586380774773339285
+    second: char_squeakySquirrel-bIdle00_13
+  - first:
+      213: 8986867119025175640
+    second: char_squeakySquirrel-bIdle00_14
+  - first:
+      213: -4599183609145878320
+    second: char_squeakySquirrel-bIdle00_15
+  - first:
+      213: 8802565549929197776
+    second: char_squeakySquirrel-bIdle00_16
+  - first:
+      213: 7242733947063928054
+    second: char_squeakySquirrel-bIdle00_17
+  - first:
+      213: 8556456495413919015
+    second: char_squeakySquirrel-bIdle00_18
+  - first:
+      213: -8509411656851013852
+    second: char_squeakySquirrel-bIdle00_19
+  - first:
+      213: 3346664579946581580
+    second: char_squeakySquirrel-bIdle00_20
+  - first:
+      213: -3358693724388639869
+    second: char_squeakySquirrel-bIdle00_21
+  - first:
+      213: -4131399955652567729
+    second: char_squeakySquirrel-bIdle00_22
+  - first:
+      213: -7639641677123857126
+    second: char_squeakySquirrel-bIdle00_23
+  - first:
+      213: 4513129731260146757
+    second: char_squeakySquirrel-bIdle00_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7ebb430328f84f9d3c07eaddfcdda
+      internalID: 6596683892624768992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36673097fd515ad45af9a9bfa110c068
+      internalID: -6920242392830072425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549a72a83356754bb708f6d6aa0aa05
+      internalID: -5055526635337479309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c25ce0ae948584a98e826239f84d75
+      internalID: 3899350158796647776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3328
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd21d786a9cdc44a10f69b67d53165
+      internalID: -4639734030066125269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0c2e267d9a2b419225ca5f0a65c1a
+      internalID: 1494375073517147695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f19fed35985904199c6cabfdef6a83
+      internalID: -2248971885699694537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67130078907474aa1371ac2dafdb91
+      internalID: -5889782078822506215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7d0125d1069c40bf553578c10db81
+      internalID: 9216555394642353320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febfc76fc08ba37419fc31361455d015
+      internalID: 3445675702659446742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c38f6a15bac944e908fc3a350a8de0
+      internalID: -7254086071969734491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c92ae79ae9935e45ba35113fbeab3e0
+      internalID: 4935750676291922302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678715cb37ae9874baa48f233cd8324f
+      internalID: 1220055061661196274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229779e18b6f1ec4bb227f81e519b46e
+      internalID: 4586380774773339285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a1bf13057648746ae5dee1dfe0974c
+      internalID: 8986867119025175640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e7aa040b586c40a2b9f6dc5a6b16e
+      internalID: -4599183609145878320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fe5acd5f26c549b3b039448ea3c0b
+      internalID: 8802565549929197776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c66b741c9df8a0468914168082a4db7
+      internalID: 7242733947063928054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee89fec430742fe46bbc3032eb1bf723
+      internalID: 8556456495413919015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40434d4c9dbae914c8895066de4a5202
+      internalID: -8509411656851013852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09af3826427b13459aaa20deaddbcdc
+      internalID: 3346664579946581580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d76a790b95874fbf51223489d822f
+      internalID: -3358693724388639869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b696a8ff6812647906d393af36c8de
+      internalID: -4131399955652567729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390182c2dbec7a418d51006461e4f96
+      internalID: -7639641677123857126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_squeakySquirrel-bIdle00_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 768
+        height: 768
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a098e7d01b41f94daf7b12d57c2f9f2
+      internalID: 4513129731260146757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff54fc9a9dba6b74eb1d394bc93872d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
