@@ -57,8 +57,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Sin&Tonic.001
+    second: {fileID: 2100000, guid: 6d3947f9736b1c747bcd76f8e5e5a26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_backShelves
     second: {fileID: 2100000, guid: 9271bc9a37fd26b408c2cec9621e83f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_backShelves.001
+    second: {fileID: 2100000, guid: a3e2fe79600e36a43adfe07209aafe29, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -79,6 +89,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_barrel-base
     second: {fileID: 2100000, guid: cd5f631255bb9d64cb02e55d6f845d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_book&Ink
+    second: {fileID: 2100000, guid: a8dfbb3e7127bf949ace78f20198c5d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
