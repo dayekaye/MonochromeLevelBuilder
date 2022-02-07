@@ -47,8 +47,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat-giftBox
+    second: {fileID: 2100000, guid: 2b48738dc8aa55441aee20f32ac6e515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_FunnyHoneyJar
     second: {fileID: 2100000, guid: 782804b0227b58d48ac45e1359080199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Sin&Tonic.001
+    second: {fileID: 2100000, guid: 6d3947f9736b1c747bcd76f8e5e5a26b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -57,8 +67,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_backShelves.001
+    second: {fileID: 2100000, guid: a3e2fe79600e36a43adfe07209aafe29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_banner
+    second: {fileID: 2100000, guid: d06e140b7d57e2a419a68c05ca403963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_banner.001
+    second: {fileID: 2100000, guid: b8bc79d1aa1480548845c131681bca5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_banner.002
+    second: {fileID: 2100000, guid: 38614deae2d85f54498a45b38f0e416b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_barrel-base
     second: {fileID: 2100000, guid: cd5f631255bb9d64cb02e55d6f845d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_book&Ink
+    second: {fileID: 2100000, guid: a8dfbb3e7127bf949ace78f20198c5d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -69,6 +104,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_cashRegister
     second: {fileID: 2100000, guid: edb5afcf7e5695441892f09332b506bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cashRegister-buttons
+    second: {fileID: 2100000, guid: acad24229d1713241b1796a1ba7f7d4e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -139,6 +179,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_sign_FunnyHoney
     second: {fileID: 2100000, guid: 726084510ec4d7640b61e51d08cc6ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_thunderWear
+    second: {fileID: 2100000, guid: 7e96229b8d447eb489bb10e6f5f1a2da, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
