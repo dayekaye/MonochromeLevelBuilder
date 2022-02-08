@@ -8,6 +8,27 @@ TextureImporter:
   - first:
       213: 7258554997811573693
     second: char_gazer-owIdleUp02_1
+  - first:
+      213: -8431241621308088175
+    second: char_gazer-owIdleUp02_2
+  - first:
+      213: 9054933506962371132
+    second: char_gazer-owIdleUp02_3
+  - first:
+      213: 6322474035151649496
+    second: char_gazer-owIdleUp02_4
+  - first:
+      213: 8112512225041619027
+    second: char_gazer-owIdleUp02_5
+  - first:
+      213: 7573137529202570672
+    second: char_gazer-owIdleUp02_6
+  - first:
+      213: -7290017419960073275
+    second: char_gazer-owIdleUp02_7
+  - first:
+      213: -6900294442776028902
+    second: char_gazer-owIdleUp02_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -51,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 683
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,18 +114,18 @@ TextureImporter:
       name: char_gazer-owIdleUp02_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 3413
-        width: 434
-        height: 541
-      alignment: 9
-      pivot: {x: 0.5, y: -0.25}
+        x: 0
+        y: 3068
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7adc568b648733a45abd15c806728584
+      spriteID: 5e482f5913c43714fa00745cfa29a1c8
       internalID: -1589846641612386169
       vertices: []
       indices: 
@@ -114,19 +135,166 @@ TextureImporter:
       name: char_gazer-owIdleUp02_1
       rect:
         serializedVersion: 2
-        x: 904
-        y: 3413
-        width: 434
-        height: 541
-      alignment: 9
-      pivot: {x: 0.5, y: -0.25}
+        x: 1028
+        y: 3068
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfd0f585e8377c84394e91ff535a0ce1
+      spriteID: 244d0e03e1499c340ad8f836141f6441
       internalID: 7258554997811573693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_2
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3068
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6752029b0b60aed4284d256e79ab776e
+      internalID: -8431241621308088175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97eb8019d0be764881e020229d0d435
+      internalID: 9054933506962371132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2040
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089600263b22864fa491f7ae3d38aa7
+      internalID: 6322474035151649496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_5
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2040
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93257aebcf4f66d4598e3c62f22c9312
+      internalID: 8112512225041619027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e708bbf298ed4ea6cb733575f0546
+      internalID: 7573137529202570672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1012
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e9cca3b53c404a8fb1c3cc7eca62e
+      internalID: -7290017419960073275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_gazer-owIdleUp02_8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1012
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25707b46ec2c9c40a07e0100a46dee9
+      internalID: -6900294442776028902
       vertices: []
       indices: 
       edges: []
@@ -134,7 +302,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1abe556907897834f85b4dc5e32782e1
+    spriteID: e37e4d10040c9ac43b36f28621ff2ebb
     internalID: 0
     vertices: []
     indices: 
