@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: e5e5c02b0215db943beb7979931c05fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5852745588029098153
+    second: char_pinny-owIdleLeft01_0
+  - first:
+      213: 5392297290161721253
+    second: char_pinny-owIdleLeft01_1
+  - first:
+      213: 8808702317931745119
+    second: char_pinny-owIdleLeft01_2
+  - first:
+      213: 4070286471002198766
+    second: char_pinny-owIdleLeft01_3
+  - first:
+      213: -6028051697265841545
+    second: char_pinny-owIdleLeft01_4
+  - first:
+      213: 5033428724870988143
+    second: char_pinny-owIdleLeft01_5
+  - first:
+      213: 3329360310936258123
+    second: char_pinny-owIdleLeft01_6
+  - first:
+      213: -6487684328003630199
+    second: char_pinny-owIdleLeft01_7
+  - first:
+      213: -5458938929181188743
+    second: char_pinny-owIdleLeft01_8
+  - first:
+      213: -1147730657486324852
+    second: char_pinny-owIdleLeft01_9
+  - first:
+      213: -1396325146129471263
+    second: char_pinny-owIdleLeft01_10
+  - first:
+      213: 4938567003868520914
+    second: char_pinny-owIdleLeft01_11
+  - first:
+      213: 4953806041104018563
+    second: char_pinny-owIdleLeft01_12
+  - first:
+      213: 6886196428715931316
+    second: char_pinny-owIdleLeft01_13
+  - first:
+      213: 3410435832771187999
+    second: char_pinny-owIdleLeft01_14
+  - first:
+      213: -5217148207447617978
+    second: char_pinny-owIdleLeft01_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396d5baacd281d48823da85e503c7ae
+      internalID: 5852745588029098153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58877610286397c48827a77bd56b148c
+      internalID: 5392297290161721253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872f41ffb820c1428d43c573f1fb694
+      internalID: 8808702317931745119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970d1bea534f96438092c7130631e6f
+      internalID: 4070286471002198766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c536df17e14184e458ef2d9ab657ac51
+      internalID: -6028051697265841545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbcc4e81acf5845a9a5b0a302c995b
+      internalID: 5033428724870988143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814be196d16fed4cb6084a711a64279
+      internalID: 3329360310936258123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3016
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44556d474350b6241be22042f3fc4ad3
+      internalID: -6487684328003630199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22a5d4d4a0b814089007d1dcd8b516
+      internalID: -5458938929181188743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccd819ce6e9eb64388198a3d4518f0f
+      internalID: -1147730657486324852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d16ff82aa8888468f7ee98f50769ad
+      internalID: -1396325146129471263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b301b0ea964747b1351fd9584b3d8
+      internalID: 4938567003868520914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d4f431711bc7428988687d9c20c4f
+      internalID: 4953806041104018563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4696eb406e11c4487db3ca4204bed0
+      internalID: 6886196428715931316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363da1096979394dbe49b6dc30d84b7
+      internalID: 3410435832771187999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_pinny-owIdleLeft01_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1936
+        width: 512
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4727e0d734cf43b06ae32e764ff26
+      internalID: -5217148207447617978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f108d80c0a9e4a049a0563b02444d098
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
