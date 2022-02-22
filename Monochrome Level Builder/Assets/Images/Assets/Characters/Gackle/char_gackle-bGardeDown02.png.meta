@@ -3,54 +3,6 @@ guid: 66bf6596846129544894526f76b3b6e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1595977787434929842
-    second: Gackle-Garde-Down-2_0
-  - first:
-      213: -8106293751991333586
-    second: Gackle-Garde-Down-2_1
-  - first:
-      213: -1531344089224937827
-    second: Gackle-Garde-Down-2_2
-  - first:
-      213: -7899633985835240750
-    second: Gackle-Garde-Down-2_3
-  - first:
-      213: -4396780676981124355
-    second: Gackle-Garde-Down-2_4
-  - first:
-      213: -2387262996099126922
-    second: Gackle-Garde-Down-2_5
-  - first:
-      213: 727881374299197616
-    second: Gackle-Garde-Down-2_6
-  - first:
-      213: 1805214732021018399
-    second: Gackle-Garde-Down-2_7
-  - first:
-      213: 9011044928344873319
-    second: Gackle-Garde-Down-2_8
-  - first:
-      213: -1506517336040649108
-    second: Gackle-Garde-Down-2_9
-  - first:
-      213: 2017184792061198617
-    second: Gackle-Garde-Down-2_10
-  - first:
-      213: 7981433808116501052
-    second: Gackle-Garde-Down-2_11
-  - first:
-      213: -447326217922770840
-    second: Gackle-Garde-Down-2_12
-  - first:
-      213: -8870136239319969024
-    second: Gackle-Garde-Down-2_13
-  - first:
-      213: -151120557889868555
-    second: Gackle-Garde-Down-2_14
-  - first:
-      213: -402920356569613216
-    second: Gackle-Garde-Down-2_15
-  - first:
       213: 2220240872241784181
     second: char_gackle-bGardeDown02_0
   - first:
@@ -62,42 +14,6 @@ TextureImporter:
   - first:
       213: -3412449594606958517
     second: char_gackle-bGardeDown02_3
-  - first:
-      213: 6969537405184474937
-    second: char_gackle-bGardeDown02_4
-  - first:
-      213: 282083291817899153
-    second: char_gackle-bGardeDown02_5
-  - first:
-      213: 1973967943152257486
-    second: char_gackle-bGardeDown02_6
-  - first:
-      213: -2810868319790408046
-    second: char_gackle-bGardeDown02_7
-  - first:
-      213: -8978467667402078014
-    second: char_gackle-bGardeDown02_8
-  - first:
-      213: 2947316877628555856
-    second: char_gackle-bGardeDown02_9
-  - first:
-      213: 1321827706845484120
-    second: char_gackle-bGardeDown02_10
-  - first:
-      213: 5455104498103974561
-    second: char_gackle-bGardeDown02_11
-  - first:
-      213: 5707916275355838126
-    second: char_gackle-bGardeDown02_12
-  - first:
-      213: -1171976044421973324
-    second: char_gackle-bGardeDown02_13
-  - first:
-      213: 4808559775687853759
-    second: char_gackle-bGardeDown02_14
-  - first:
-      213: -7503504561449495280
-    second: char_gackle-bGardeDown02_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -141,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 1024
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -176,39 +92,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -217,9 +100,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3072
-        width: 1024
-        height: 1024
+        y: 2048
+        width: 2048
+        height: 2048
       alignment: 9
       pivot: {x: 0.58, y: 0.222}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,7 +110,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 411f924da7bd7e24c9bac0536a734b3e
+      spriteID: 4677f5e21e7ab3744888b3c4af476376
       internalID: 2220240872241784181
       vertices: []
       indices: 
@@ -237,10 +120,10 @@ TextureImporter:
       name: char_gackle-bGardeDown02_1
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
-        width: 1024
-        height: 1024
+        x: 2048
+        y: 2048
+        width: 2048
+        height: 2048
       alignment: 9
       pivot: {x: 0.58, y: 0.222}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,7 +131,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26450c1e7e79b9540858c0944037a220
+      spriteID: 524047450c165764dbb942d3e8d2df74
       internalID: -4415349021384641442
       vertices: []
       indices: 
@@ -258,10 +141,10 @@ TextureImporter:
       name: char_gackle-bGardeDown02_2
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 3072
-        width: 1024
-        height: 1024
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
       alignment: 9
       pivot: {x: 0.58, y: 0.222}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,7 +152,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f847a17a1c21474ab619d9099ac748d
+      spriteID: 793e8a5eb17c09f4aa15b039cf4a810c
       internalID: 7097430914350405375
       vertices: []
       indices: 
@@ -279,10 +162,10 @@ TextureImporter:
       name: char_gackle-bGardeDown02_3
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3072
-        width: 1024
-        height: 1024
+        x: 2048
+        y: 0
+        width: 2048
+        height: 2048
       alignment: 9
       pivot: {x: 0.58, y: 0.222}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,260 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f80a9f259934fc54ba370f0c1beb2916
+      spriteID: a4da5ebc4db1cf5478540272cf1e6ffc
       internalID: -3412449594606958517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2048
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 959ef4d9dc70d2a439abc852543be38d
-      internalID: 6969537405184474937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_5
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 2048
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eddcc84a682240d459ca6a9217b0c655
-      internalID: 282083291817899153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_6
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 2048
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9f5dec90c4c0984fa01fb36005c1079
-      internalID: 1973967943152257486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_7
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 2048
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df053341b1fb14448b0cda148ee34710
-      internalID: -2810868319790408046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0f0658590faeb54a963d118732bd562
-      internalID: -8978467667402078014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_9
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d35f18ff95d1a2146b2abe1059e46d0d
-      internalID: 2947316877628555856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_10
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 1024
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9022b2947e4016d499ff949b151f77de
-      internalID: 1321827706845484120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_11
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 1024
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5c6f1574be58104a828963cb0501c04
-      internalID: 5455104498103974561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac41ba14cb2479044af74961d0a16962
-      internalID: 5707916275355838126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_13
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2988e8b98a3d0f747a338d3e08dfc028
-      internalID: -1171976044421973324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_14
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37b18912c2a2b3e4f99efdeb12bc1ac5
-      internalID: 4808559775687853759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_gackle-bGardeDown02_15
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 9
-      pivot: {x: 0.58, y: 0.222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e7b68cb638c3574caed9ec78e11f127
-      internalID: -7503504561449495280
       vertices: []
       indices: 
       edges: []
@@ -551,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: eb07fd7c4ebdaea4ca7ca9c65662e5ae
+    spriteID: 5835256e5469f784fb7b7836462ea8ce
     internalID: 0
     vertices: []
     indices: 
