@@ -1,40 +1,34 @@
 fileFormatVersion: 2
-guid: 487221d7ce4aae142891b8cbac424ee7
+guid: f7fe7ba2df3adf54aa82f7e9d1ffd4b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2617621157523214240
-    second: Otto_Anim_5_0
+      213: -6865510802623193340
+    second: char_hyenaSisters-owIdleDown02_0
   - first:
-      213: -2593879380206145954
-    second: Otto_Anim_5_1
+      213: 8838351163017873737
+    second: char_hyenaSisters-owIdleDown02_1
   - first:
-      213: 3527648698464480347
-    second: Otto_Anim_5_2
+      213: -7923499911914860533
+    second: char_hyenaSisters-owIdleDown02_2
   - first:
-      213: -7876347292850327234
-    second: Otto_Anim_5_3
+      213: -1187517907821470207
+    second: char_hyenaSisters-owIdleDown02_3
   - first:
-      213: -6460846917668055868
-    second: Otto_Anim_5_4
+      213: -417967345665716837
+    second: char_hyenaSisters-owIdleDown02_4
   - first:
-      213: 8168539757931115095
-    second: Otto_Anim_5_5
+      213: 6021976114917195564
+    second: char_hyenaSisters-owIdleDown02_5
   - first:
-      213: -707160400884793847
-    second: Otto_Anim_5_6
+      213: 6872868410841160125
+    second: char_hyenaSisters-owIdleDown02_6
   - first:
-      213: 294068340843032066
-    second: Otto_Anim_5_7
+      213: 914360738270542611
+    second: char_hyenaSisters-owIdleDown02_7
   - first:
-      213: -1363298384176515168
-    second: Otto_Anim_5_8
-  - first:
-      213: 2160365505849512521
-    second: Otto_Anim_5_9
-  - first:
-      213: 958180195594030447
-    second: Otto_Anim_5_10
+      213: -5798913042146035824
+    second: char_hyenaSisters-owIdleDown02_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -93,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -104,7 +98,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,7 +109,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: iPhone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,7 +120,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -137,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -150,232 +144,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Otto_Anim_5_0
+      name: char_hyenaSisters-owIdleDown02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cb530d5d03ac46bf9995c53b3a298
+      internalID: -6865510802623193340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hyenaSisters-owIdleDown02_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2816
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafcfce930bcb47408cc151754f27e74
+      internalID: 8838351163017873737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hyenaSisters-owIdleDown02_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2816
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd0092905440144893d07d5744bcde
+      internalID: -7923499911914860533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_hyenaSisters-owIdleDown02_3
       rect:
         serializedVersion: 2
         x: 0
         y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68b69d4f20656ca45988ee5ed5679688
-      internalID: 2617621157523214240
+      spriteID: 0917f8501f787164c9b40416c1b5188e
+      internalID: -1187517907821470207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Otto_Anim_5_1
+      name: char_hyenaSisters-owIdleDown02_4
       rect:
         serializedVersion: 2
-        x: 512
+        x: 1280
         y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7715ca53cd2477846bce61245dce5191
-      internalID: -2593879380206145954
+      spriteID: fc6387b6b1ec7e448b13edc0e47f21f2
+      internalID: -417967345665716837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Otto_Anim_5_2
+      name: char_hyenaSisters-owIdleDown02_5
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 2560
         y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c96d1f7e80f33494298d5cd131316382
-      internalID: 3527648698464480347
+      spriteID: d442512c4ec088c468760b04b1f797cd
+      internalID: 6021976114917195564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Otto_Anim_5_3
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d655941e4f541143b44b68ed760e91c
-      internalID: -7876347292850327234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Otto_Anim_5_4
+      name: char_hyenaSisters-owIdleDown02_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 256
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a19927efbee9bc24a9ed4cda25b772ac
-      internalID: -6460846917668055868
+      spriteID: 575e9254ee9e95e4c9bdfc2163c47895
+      internalID: 6872868410841160125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Otto_Anim_5_5
+      name: char_hyenaSisters-owIdleDown02_7
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 256
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7482a46f6775f243bd25c7562d80310
-      internalID: 8168539757931115095
+      spriteID: 02a6c25dbdcfaa44c94965fac38adf6b
+      internalID: 914360738270542611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Otto_Anim_5_6
+      name: char_hyenaSisters-owIdleDown02_8
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 256
+        width: 1280
+        height: 1280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b02a11aa69d4ee349ab46acd343b46f2
-      internalID: -707160400884793847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Otto_Anim_5_7
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee616f560c121554895cab36cf04d346
-      internalID: 294068340843032066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Otto_Anim_5_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f4ae9565db7c824ea4d5a870bbf567f
-      internalID: -1363298384176515168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Otto_Anim_5_9
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d6b8d4d514f660448c58f2549c2aeb8
-      internalID: 2160365505849512521
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Otto_Anim_5_10
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcb57d890220c914cb6027f8b30334ee
-      internalID: 958180195594030447
+      spriteID: 9eb3c0e5bdef83d49835bd0d35905e20
+      internalID: -5798913042146035824
       vertices: []
       indices: 
       edges: []
@@ -383,7 +335,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: bb1b532dfd69c9b49923bca30689d3e1
+    spriteID: 9ddc5dbbd82bafd4cb849df6bdd54e67
     internalID: 0
     vertices: []
     indices: 
