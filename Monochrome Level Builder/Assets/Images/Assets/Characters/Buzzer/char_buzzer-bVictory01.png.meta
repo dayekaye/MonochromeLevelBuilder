@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 600483d17600c80418dcbbcd38da7025
+guid: 1323bdad5553dfe4f82a55e56de91178
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -50,81 +50,6 @@ TextureImporter:
   - first:
       213: 7624699145837927813
     second: char_buzzer-bVictory01_15
-  - first:
-      213: 4451849742154134267
-    second: char_buzzer-bVictory01_16
-  - first:
-      213: -7514315917978075750
-    second: char_buzzer-bVictory01_17
-  - first:
-      213: 7421492584647350142
-    second: char_buzzer-bVictory01_18
-  - first:
-      213: -7383128690957823548
-    second: char_buzzer-bVictory01_19
-  - first:
-      213: 4321659432779819733
-    second: char_buzzer-bVictory01_20
-  - first:
-      213: 2993537300743309445
-    second: char_buzzer-bVictory01_21
-  - first:
-      213: -3447269302947415630
-    second: char_buzzer-bVictory01_22
-  - first:
-      213: -5215353860651362855
-    second: char_buzzer-bVictory01_23
-  - first:
-      213: -3826241778959797028
-    second: char_buzzer-bVictory01_24
-  - first:
-      213: 5011552582465744360
-    second: char_buzzer-bVictory01_25
-  - first:
-      213: -3997571345473374220
-    second: char_buzzer-bVictory01_26
-  - first:
-      213: -3368436037060368049
-    second: char_buzzer-bVictory01_27
-  - first:
-      213: -2017187348232116480
-    second: char_buzzer-bVictory01_28
-  - first:
-      213: 2622281339359844271
-    second: char_buzzer-bVictory01_29
-  - first:
-      213: 5608276353041220800
-    second: char_buzzer-bVictory01_30
-  - first:
-      213: -785672721762980512
-    second: char_buzzer-bVictory01_31
-  - first:
-      213: 4796382462814027098
-    second: char_buzzer-bVictory01_32
-  - first:
-      213: -5291383670327817736
-    second: char_buzzer-bVictory01_33
-  - first:
-      213: 4690709601987917731
-    second: char_buzzer-bVictory01_34
-  - first:
-      213: 4962035132663380892
-    second: char_buzzer-bVictory01_35
-  - first:
-      213: -3278792612144225051
-    second: char_buzzer-bVictory01_36
-  - first:
-      213: -6841265014592930527
-    second: char_buzzer-bVictory01_37
-  - first:
-      213: -6868674400047953929
-    second: char_buzzer-bVictory01_38
-  - first:
-      213: 8292913331897040380
-    second: char_buzzer-bVictory01_39
-  - first:
-      213: 9031729796118297791
-    second: char_buzzer-bVictory01_40
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -168,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 303
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -203,39 +128,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -244,9 +136,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3072
-        width: 512
-        height: 512
+        y: 3246
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,7 +146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f426d8eddeca11649a6ea8e9e49e6959
+      spriteID: 60ed463f172c36142879b3c7c99913b3
       internalID: -6006833254826537604
       vertices: []
       indices: 
@@ -264,10 +156,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
-        width: 512
-        height: 512
+        x: 950
+        y: 3246
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,7 +167,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80dc2c8bea55a4647a55a541a5c8ae91
+      spriteID: 0cbdf8db5f4827549afecac74537c5d5
       internalID: -3198346312614328908
       vertices: []
       indices: 
@@ -285,10 +177,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_2
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
-        width: 512
-        height: 512
+        x: 1900
+        y: 3246
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,7 +188,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9771a5965b6a88e4585077bf1854c241
+      spriteID: 876c295606b77944982d5e545fbc1f4b
       internalID: -2857589813334377689
       vertices: []
       indices: 
@@ -306,10 +198,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_3
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
-        width: 512
-        height: 512
+        x: 2850
+        y: 3246
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,7 +209,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cb4fe0ac967e18428a18dda6222aa3c
+      spriteID: d3609a31eceed7a42b4c9966f09a2797
       internalID: -5326462093644318488
       vertices: []
       indices: 
@@ -327,10 +219,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_4
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 3072
-        width: 512
-        height: 512
+        x: 0
+        y: 2396
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,7 +230,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e0fdb0fb7b18b643b023b797fa7ffa2
+      spriteID: abe4b9d936cef5d4a892c85aa6d75dde
       internalID: -5519408742251070075
       vertices: []
       indices: 
@@ -348,10 +240,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_5
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 3072
-        width: 512
-        height: 512
+        x: 950
+        y: 2396
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,7 +251,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd5a55fa5a0e4594290001bfda08d170
+      spriteID: 6d2b0d256a4c81f458379dcd8d283d5b
       internalID: 7559289540408779884
       vertices: []
       indices: 
@@ -369,10 +261,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_6
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3072
-        width: 512
-        height: 512
+        x: 1900
+        y: 2396
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,7 +272,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1c4941656c8f4a4684b6c6d020e6b96
+      spriteID: af2e504a7585af54ab02a318a9e59468
       internalID: 5088332541376995562
       vertices: []
       indices: 
@@ -390,10 +282,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2560
-        width: 512
-        height: 512
+        x: 2850
+        y: 2396
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,7 +293,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e23c7add433ed2442bc64ecfdc880cb4
+      spriteID: 04333f106967ada49bdb9eb8da2dc181
       internalID: -580637530422320546
       vertices: []
       indices: 
@@ -411,10 +303,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_8
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
-        width: 512
-        height: 512
+        x: 0
+        y: 1546
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,7 +314,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ee9795422269a74c9ea0b50971ac486
+      spriteID: 0eaa1b2df747f8f49a2cbcdf6019950d
       internalID: -4968359804828743602
       vertices: []
       indices: 
@@ -432,10 +324,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_9
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
-        width: 512
-        height: 512
+        x: 950
+        y: 1546
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,7 +335,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d885d74231db5e4d875a6b54290f41e
+      spriteID: 30b9ae7fed5b2844681eb5d631d34b98
       internalID: 4856207171986655507
       vertices: []
       indices: 
@@ -453,10 +345,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_10
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
-        width: 512
-        height: 512
+        x: 1900
+        y: 1546
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,7 +356,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42374be3fbb224a4fa0f0b4eb3393141
+      spriteID: 83475b292ea59e749b86ea438904ee0f
       internalID: 1185665772511585190
       vertices: []
       indices: 
@@ -474,10 +366,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_11
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
-        width: 512
-        height: 512
+        x: 2850
+        y: 1546
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,7 +377,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 000171b88fdce574697e0474f585286d
+      spriteID: 56be2dfff62d41847b8f22d6b28d4c9b
       internalID: -1812670957743565172
       vertices: []
       indices: 
@@ -495,10 +387,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_12
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
-        width: 512
-        height: 512
+        x: 0
+        y: 696
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,7 +398,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87442cd2ae0cac64b85cb73e1e18f473
+      spriteID: 475ab2add3051fe4da0f72fc3679bac8
       internalID: -6735022078778799051
       vertices: []
       indices: 
@@ -516,10 +408,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_13
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 2560
-        width: 512
-        height: 512
+        x: 950
+        y: 696
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,7 +419,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8573980042f872746889ac0e6b7d1424
+      spriteID: dd343386148d8344a9749719195c0219
       internalID: -5070436987498366683
       vertices: []
       indices: 
@@ -537,10 +429,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2048
-        width: 512
-        height: 512
+        x: 1900
+        y: 696
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,7 +440,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91d026ca6bc3de845a2a797d6d490994
+      spriteID: 654af7c0cdf6e18448903817608dce61
       internalID: 6887286028757092576
       vertices: []
       indices: 
@@ -558,10 +450,10 @@ TextureImporter:
       name: char_buzzer-bVictory01_15
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
-        width: 512
-        height: 512
+        x: 2850
+        y: 696
+        width: 950
+        height: 850
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,533 +461,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cb7cd8dcae2ab74aba43a9a58512da4
+      spriteID: 23d0c49a7d7c78545b301f4367518d5c
       internalID: 7624699145837927813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_16
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab76b3431a65b3b4aa62e8f77d0d8be7
-      internalID: 4451849742154134267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_17
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddcab3325cdbd344ab1d09a79ba55c8c
-      internalID: -7514315917978075750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_18
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3651a89274ce3cf4c8cf218f801a9805
-      internalID: 7421492584647350142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_19
-      rect:
-        serializedVersion: 2
-        x: 2560
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20c4d3bd65bd17f4fa1781a71ef9048b
-      internalID: -7383128690957823548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_20
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 2048
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e432991a65665e4fbed1266d8971bb0
-      internalID: 4321659432779819733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_21
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f5b35630a1fbcb438d1587570a3671a
-      internalID: 2993537300743309445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_22
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 645080fce49f7504c95a2416214e9408
-      internalID: -3447269302947415630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_23
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9b14c88dd90e5d43a8e2cc72c7389b9
-      internalID: -5215353860651362855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_24
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2e675eece3d3944395d7f81b8219243
-      internalID: -3826241778959797028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_25
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c38e9ea095bb5244d97eecab63a21909
-      internalID: 5011552582465744360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_26
-      rect:
-        serializedVersion: 2
-        x: 2560
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2dcabf396ab96d4c9130c874ba4fb01
-      internalID: -3997571345473374220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_27
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 1536
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e2e1aed7276c284c961360d4e14f851
-      internalID: -3368436037060368049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_28
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b955409f5bdb4e4c9d7429ea7d132bb
-      internalID: -2017187348232116480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_29
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a8c2cc1b7ecc4748a0c42e79fec1b27
-      internalID: 2622281339359844271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_30
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 964e135d54f59c34aa1d5c4e3d9417e3
-      internalID: 5608276353041220800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_31
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 393be7edc7811e742a6e85d54bff8d85
-      internalID: -785672721762980512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_32
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baebc09f07406f946aa363fad1f0583d
-      internalID: 4796382462814027098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_33
-      rect:
-        serializedVersion: 2
-        x: 2560
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 262f336e0336a9b4580da2840832aaaf
-      internalID: -5291383670327817736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_34
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bdc8d04097a4d994f98364eff0b0abc0
-      internalID: 4690709601987917731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d6ab6618ce10e7469d73e634dc447cb
-      internalID: 4962035132663380892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_36
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39b8bca7d7305ac4c80f416d76ef4463
-      internalID: -3278792612144225051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_37
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 933c198385b5e704fb75c9cdf76ccb33
-      internalID: -6841265014592930527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_38
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d212c0f76b85ff48bcf53c514452cd3
-      internalID: -6868674400047953929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_39
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d070e5eed1c3644684f278385da790a
-      internalID: 8292913331897040380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_buzzer-bVictory01_40
-      rect:
-        serializedVersion: 2
-        x: 2560
-        y: 512
-        width: 512
-        height: 512
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f4e8f6ba9496c846b1d393812c65288
-      internalID: 9031729796118297791
       vertices: []
       indices: 
       edges: []
@@ -1103,7 +470,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 20892c15a04111944a8252140220fca0
+    spriteID: 039d04f0608a625498168602cded85a9
     internalID: 0
     vertices: []
     indices: 
