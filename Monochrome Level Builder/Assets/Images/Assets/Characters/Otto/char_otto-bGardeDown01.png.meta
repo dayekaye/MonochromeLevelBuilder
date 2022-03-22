@@ -14,42 +14,6 @@ TextureImporter:
   - first:
       213: 1268973338689391311
     second: char_otto-bGardeDown01_3
-  - first:
-      213: 620762871069781379
-    second: char_otto-bGardeDown01_4
-  - first:
-      213: -2723514147293836660
-    second: char_otto-bGardeDown01_5
-  - first:
-      213: 8634075888168614804
-    second: char_otto-bGardeDown01_6
-  - first:
-      213: 3335646484412154104
-    second: char_otto-bGardeDown01_7
-  - first:
-      213: 7972278842791937803
-    second: char_otto-bGardeDown01_8
-  - first:
-      213: 4738343093318885114
-    second: char_otto-bGardeDown01_9
-  - first:
-      213: -5147578237941167106
-    second: char_otto-bGardeDown01_10
-  - first:
-      213: 8065218907744727478
-    second: char_otto-bGardeDown01_11
-  - first:
-      213: -692051242294129081
-    second: char_otto-bGardeDown01_12
-  - first:
-      213: 8813132933522019620
-    second: char_otto-bGardeDown01_13
-  - first:
-      213: -3368657154887903935
-    second: char_otto-bGardeDown01_14
-  - first:
-      213: -7305984158156936448
-    second: char_otto-bGardeDown01_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -128,39 +92,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 4096
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -169,17 +100,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2304
+        y: 1280
         width: 768
         height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8196942204c15747a1acffa8c7ca20e
+      spriteID: 52ea4605c6fa96447a406b09b82170ca
       internalID: 3734168172862100513
       vertices: []
       indices: 
@@ -190,17 +121,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 2304
+        y: 1280
         width: 768
         height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e9e5ef956b93cd45aa4a8fb7fe25e41
+      spriteID: 41721de9ed5746941a5f76e9e248c5d0
       internalID: -8471880428702184166
       vertices: []
       indices: 
@@ -210,18 +141,18 @@ TextureImporter:
       name: char_otto-bGardeDown01_2
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 0
+        y: 512
         width: 768
         height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5f8b9b90dfa6eb46acdf37bf620f285
+      spriteID: 3aa0a7d17d7cb6243a755515fdb165e1
       internalID: 8951362380478689350
       vertices: []
       indices: 
@@ -231,271 +162,19 @@ TextureImporter:
       name: char_otto-bGardeDown01_3
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 768
+        y: 512
         width: 768
         height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d28a519f03a5cd44ad892adb158e2d6
+      spriteID: 68a13a080a35c3241ace044148d42511
       internalID: 1268973338689391311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e71925fe282b9944db58e20f5811b77c
-      internalID: 620762871069781379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_5
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d837425e0718cdf408f7e76db94d3165
-      internalID: -2723514147293836660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_6
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 973985b14e3e2904f9266110973fc30a
-      internalID: 8634075888168614804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_7
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e06aea12c53624745a9be47e4661d685
-      internalID: 3335646484412154104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02709b17d84c2e34aa138c9a067da0cc
-      internalID: 7972278842791937803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_9
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 768
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b4e1ca52c78ec0439f48adbf8f710b5
-      internalID: 4738343093318885114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_10
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 768
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 211acbbc656173e4ebf34d7969b15d61
-      internalID: -5147578237941167106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_11
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 768
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f42f0b9d6df855149894069ae4fbe823
-      internalID: 8065218907744727478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a30bc6342b592bf4b9f51aced6a7091e
-      internalID: -692051242294129081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_13
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19deb9b395503104d9941bf56a9249b7
-      internalID: 8813132933522019620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_14
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e155c8860b6ee564dbc11c87b6756549
-      internalID: -3368657154887903935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_otto-bGardeDown01_15
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 0
-        width: 768
-        height: 768
-      alignment: 9
-      pivot: {x: 0.5, y: 0.15}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b62fcb6c5e7ff1d4e85ce051439fcf4d
-      internalID: -7305984158156936448
       vertices: []
       indices: 
       edges: []
@@ -503,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b8f422843cfce874a8d9fabc629a7cb4
+    spriteID: eff4ef26062e14241b33ac6cdb1e77d7
     internalID: 0
     vertices: []
     indices: 

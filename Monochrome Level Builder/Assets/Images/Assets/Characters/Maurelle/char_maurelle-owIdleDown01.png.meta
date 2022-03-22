@@ -29,27 +29,6 @@ TextureImporter:
   - first:
       213: 4642966087483518210
     second: char_maurelle-owIdleDown01_8
-  - first:
-      213: -4053460820362341175
-    second: char_maurelle-owIdleDown01_9
-  - first:
-      213: -7508334295630968648
-    second: char_maurelle-owIdleDown01_10
-  - first:
-      213: 8591271482688051559
-    second: char_maurelle-owIdleDown01_11
-  - first:
-      213: 9000113914031914441
-    second: char_maurelle-owIdleDown01_12
-  - first:
-      213: 9057556581556571641
-    second: char_maurelle-owIdleDown01_13
-  - first:
-      213: 7636916932754319759
-    second: char_maurelle-owIdleDown01_14
-  - first:
-      213: 2766623915502329106
-    second: char_maurelle-owIdleDown01_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -128,39 +107,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -169,9 +115,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
-        width: 512
-        height: 512
+        y: 2816
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,7 +125,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57a6c507443d2e94886eebed6668776c
+      spriteID: b3c7835d442537749a94aa15171ebb8c
       internalID: -8688728608092042733
       vertices: []
       indices: 
@@ -189,10 +135,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
+        x: 1280
+        y: 2816
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,7 +146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75596e6340fb9484eb79e213fecc70bc
+      spriteID: b43eab2ca856e2b42b6b58b1c31c8a5a
       internalID: -4625291085593942519
       vertices: []
       indices: 
@@ -210,10 +156,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_2
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
+        x: 2560
+        y: 2816
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,7 +167,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b897ddc5691dd46905bf4387f30a41
+      spriteID: 107973e26896a004d99688b3c434ecdd
       internalID: 7788468445840322460
       vertices: []
       indices: 
@@ -231,10 +177,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_3
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 0
         y: 1536
-        width: 512
-        height: 512
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,7 +188,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae8d1e4a7ccdd5647956c854fc4c861a
+      spriteID: d33ed7d486460c44bafbd0de66c2f9ab
       internalID: -1629973602881792958
       vertices: []
       indices: 
@@ -252,10 +198,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 512
-        height: 512
+        x: 1280
+        y: 1536
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,7 +209,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b64769f6a85ffe74d90b06e5bc9dc614
+      spriteID: e42f7587056b732449108b891d76a22c
       internalID: 7525233569199869857
       vertices: []
       indices: 
@@ -273,10 +219,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_5
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 512
-        height: 512
+        x: 2560
+        y: 1536
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,7 +230,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ff3e348907b82b4ba4c32ea42cf84fc
+      spriteID: 686139261db88384da596ca127310afc
       internalID: -6722092459206411115
       vertices: []
       indices: 
@@ -294,10 +240,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_6
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
+        x: 0
+        y: 256
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,7 +251,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a18e5df7213a1be4694cc62046fe738c
+      spriteID: 8b794c5467d23bf46b73ed5a161ebb9f
       internalID: 7314274076654554182
       vertices: []
       indices: 
@@ -315,10 +261,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_7
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
-        width: 512
-        height: 512
+        x: 1280
+        y: 256
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,7 +272,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fcb8631b16dc98438db7373c23728b9
+      spriteID: 942c33576173d5b4aa73b36fe0f77992
       internalID: -728117702886802503
       vertices: []
       indices: 
@@ -336,10 +282,10 @@ TextureImporter:
       name: char_maurelle-owIdleDown01_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
+        x: 2560
+        y: 256
+        width: 1280
+        height: 1280
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,155 +293,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5732d623690ef3f4eb42ee38ff2768b5
+      spriteID: da9d06fe944934446ba7475b9f78f255
       internalID: 4642966087483518210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_9
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 405501a3baf0da045b17e77ed4f3c743
-      internalID: -4053460820362341175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_10
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d16b250312d921140b1d3753944ef6f6
-      internalID: -7508334295630968648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_11
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 708e94d8c75db3d44ab4da81c084321f
-      internalID: 8591271482688051559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5005b1cbf05c60f448d8d7bd75b2a1d3
-      internalID: 9000113914031914441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_13
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3dc14a088b09e545bc0126c717a9947
-      internalID: 9057556581556571641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_14
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0764dcd9fe314074fa7c0543729675f6
-      internalID: 7636916932754319759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_maurelle-owIdleDown01_15
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 512
-        height: 512
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5054b5ff2f8173c4c958706be68b1a03
-      internalID: 2766623915502329106
       vertices: []
       indices: 
       edges: []
@@ -503,7 +302,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: afd46ba8ccb8b984092cc9b8f16eb3c5
+    spriteID: b6f91e1bf94dd464a9a9632e7340528d
     internalID: 0
     vertices: []
     indices: 

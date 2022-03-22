@@ -14,12 +14,6 @@ TextureImporter:
   - first:
       213: 6162665925983274466
     second: char_speaker-bEntertained04_3
-  - first:
-      213: -7579504450956618554
-    second: char_speaker-bEntertained04_4
-  - first:
-      213: 8777988234502317188
-    second: char_speaker-bEntertained04_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -106,9 +100,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2978
-        width: 768
-        height: 1118
+        y: 2646
+        width: 1450
+        height: 1450
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -116,7 +110,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd22184dee5899641a5aa96155ad338f
+      spriteID: b227bf8d5148b2d41ac82c349a9d656b
       internalID: 6310852306514401930
       vertices: []
       indices: 
@@ -126,10 +120,10 @@ TextureImporter:
       name: char_speaker-bEntertained04_1
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2978
-        width: 768
-        height: 1118
+        x: 1450
+        y: 2646
+        width: 1450
+        height: 1450
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,7 +131,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d10a63970ef60944b555ac284cb28f4
+      spriteID: fb462a2de45309f48a238d8885a0b7f0
       internalID: 666338284132240
       vertices: []
       indices: 
@@ -147,10 +141,10 @@ TextureImporter:
       name: char_speaker-bEntertained04_2
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2978
-        width: 768
-        height: 1118
+        x: 0
+        y: 1196
+        width: 1450
+        height: 1450
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,7 +152,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a659bcaf8b7634c4c9af19d6cefe7c52
+      spriteID: e4092aaf9062d2f43bc667e0a2c3a8d8
       internalID: 2515110103178439090
       vertices: []
       indices: 
@@ -168,10 +162,10 @@ TextureImporter:
       name: char_speaker-bEntertained04_3
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2978
-        width: 768
-        height: 1118
+        x: 1450
+        y: 1196
+        width: 1450
+        height: 1450
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,50 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861119807d40189498891e4561346b1e
+      spriteID: a9eb66b6b91edce4a889ccd9a851dcde
       internalID: 6162665925983274466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_speaker-bEntertained04_4
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 2978
-        width: 768
-        height: 1118
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2014785350905014381a0479e3d09bfc
-      internalID: -7579504450956618554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_speaker-bEntertained04_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1860
-        width: 768
-        height: 1118
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 616c77b0a2962d3458e998a295e54438
-      internalID: 8777988234502317188
       vertices: []
       indices: 
       edges: []
@@ -230,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7f0fe086aae9521439466ad58a9eedc0
+    spriteID: 8c1e12958881c45498d0a8df45378735
     internalID: 0
     vertices: []
     indices: 
