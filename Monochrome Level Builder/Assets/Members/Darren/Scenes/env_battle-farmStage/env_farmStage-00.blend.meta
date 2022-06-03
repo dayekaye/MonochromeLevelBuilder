@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 2287b725584bd834a9b7052affc5e2f4
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 37ff2196db47e424a963fd37c6beb64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsv-grass-planes
+    second: {fileID: 2100000, guid: 0a021f1b54b70c74cbda055da5ce650d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsv-grass-planes.001
+    second: {fileID: 2100000, guid: 6051151e88298fc46a9150713ba27910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsv-grass-planes.002
+    second: {fileID: 2100000, guid: d6c611a678a558648a15584951be3840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainPath-ProtoTex
+    second: {fileID: 2100000, guid: 0874b9523b49cbd4bbb8d45c604ee289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_PulleySystem
+    second: {fileID: 2100000, guid: 4d5fa9a15b9e1cb45a1f1cfca053b0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Wagon
+    second: {fileID: 2100000, guid: 8253bc61a26021b47ab81b60d9ec38c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_barn.001
+    second: {fileID: 2100000, guid: 62bfc521a7d5ef94db52bad745f8b6ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_dirt
+    second: {fileID: 2100000, guid: 91c9835cfb09d7447840cd9935f1dc0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost
+    second: {fileID: 2100000, guid: d21da0215fe3efc48a888717c15b0d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost-rails
+    second: {fileID: 2100000, guid: e33326ceb0badfa418c59bd1c4789a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost.001
+    second: {fileID: 2100000, guid: c571dd5099d913946afa9bfa0786065e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost.01
+    second: {fileID: 2100000, guid: 3f3922242ae40ff4085d2c12e7078d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost.02
+    second: {fileID: 2100000, guid: 30a47fdc1db9b4344a6b54ab77cf5b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fencePost.Background
+    second: {fileID: 2100000, guid: a940ea6ad3acde84ab4b8be633985926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_frontPlot
+    second: {fileID: 2100000, guid: b581fe127c764ea419e46d4257328039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass
+    second: {fileID: 2100000, guid: 557f1e59f36c7004f98ddc3302f40a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gsv-trees
+    second: {fileID: 2100000, guid: 797544f5c501c4c419a2d66b22c78d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gsv-trees.001
+    second: {fileID: 2100000, guid: ecfa5a7d5bb3673419df2c0ce51f3c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gsv-trees.002
+    second: {fileID: 2100000, guid: ba6bb4418571b9640b1601adbd4d3afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_hayBale
+    second: {fileID: 2100000, guid: db566b08a2d59754c85a7ef1ad229535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_mainPath
+    second: {fileID: 2100000, guid: 89167617d454a7b4ca3085609b068813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pulley
+    second: {fileID: 2100000, guid: d3ff5b8abe00e2c489cd682bfcebc6f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pulleyTopBrack
+    second: {fileID: 2100000, guid: beb034afc9158464aa9b361c00cd78e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tree-canopy
+    second: {fileID: 2100000, guid: 35bb3f5de40d30a438eba4254b811174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tree-canopy.001
+    second: {fileID: 2100000, guid: aa67e965573b3954db3360418641ce07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tree-canopy.002
+    second: {fileID: 2100000, guid: 25405ec41fd3255419c8be85bb92a2b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_upperFloor
+    second: {fileID: 2100000, guid: 9a8d5b3ac69ce884fa43b6dcdaeb8def, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
