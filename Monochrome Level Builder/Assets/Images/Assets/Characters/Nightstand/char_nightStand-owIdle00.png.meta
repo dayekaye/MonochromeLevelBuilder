@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 1cd19c3167d7897428ba0f9b04a61708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4394941672200745917
+    second: char_nightStand-owIdle00_0
+  - first:
+      213: -6118760825569516236
+    second: char_nightStand-owIdle00_1
+  - first:
+      213: -7930305997805076506
+    second: char_nightStand-owIdle00_2
+  - first:
+      213: -4571191195189084863
+    second: char_nightStand-owIdle00_3
+  - first:
+      213: -3120879312727484720
+    second: char_nightStand-owIdle00_4
+  - first:
+      213: -6673625117163307807
+    second: char_nightStand-owIdle00_5
+  - first:
+      213: -2818007602952998986
+    second: char_nightStand-owIdle00_6
+  - first:
+      213: 5665013207787995131
+    second: char_nightStand-owIdle00_7
+  - first:
+      213: 1447247083114183261
+    second: char_nightStand-owIdle00_8
+  - first:
+      213: -8594319071552326984
+    second: char_nightStand-owIdle00_9
+  - first:
+      213: 2905574977223169440
+    second: char_nightStand-owIdle00_10
+  - first:
+      213: -3508182681234078206
+    second: char_nightStand-owIdle00_11
+  - first:
+      213: -7609233462189240778
+    second: char_nightStand-owIdle00_12
+  - first:
+      213: -1487754020775464166
+    second: char_nightStand-owIdle00_13
+  - first:
+      213: 1631833698550272154
+    second: char_nightStand-owIdle00_14
+  - first:
+      213: -2275802955329486391
+    second: char_nightStand-owIdle00_15
+  - first:
+      213: -5041820065648209964
+    second: char_nightStand-owIdle00_16
+  - first:
+      213: -3013571686544042715
+    second: char_nightStand-owIdle00_17
+  - first:
+      213: -7238450056250159902
+    second: char_nightStand-owIdle00_18
+  - first:
+      213: 6865877363813245431
+    second: char_nightStand-owIdle00_19
+  - first:
+      213: 7063704077243638212
+    second: char_nightStand-owIdle00_20
+  - first:
+      213: 5705658853761028414
+    second: char_nightStand-owIdle00_21
+  - first:
+      213: 5890339203531032547
+    second: char_nightStand-owIdle00_22
+  - first:
+      213: 20644971201058645
+    second: char_nightStand-owIdle00_23
+  - first:
+      213: -7459180377244058151
+    second: char_nightStand-owIdle00_24
+  - first:
+      213: 5710994532282741930
+    second: char_nightStand-owIdle00_25
+  - first:
+      213: 171966864839467178
+    second: char_nightStand-owIdle00_26
+  - first:
+      213: -7740754625977657530
+    second: char_nightStand-owIdle00_27
+  - first:
+      213: -7469008897940006857
+    second: char_nightStand-owIdle00_28
+  - first:
+      213: -7096853016412987954
+    second: char_nightStand-owIdle00_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0366d04a4d9b0944a24b9b7a4819737
+      internalID: -4394941672200745917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cefac5c5243c1d4192f71237568983a
+      internalID: -6118760825569516236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad37127b46346c4faf123d8377d86b3
+      internalID: -7930305997805076506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c3ec1ada342a40aa774f6ca488f06
+      internalID: -4571191195189084863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_4
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a044b08e3ea5b4f4b82c053281077c87
+      internalID: -3120879312727484720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_5
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1643
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea798cb6f21b0b4bb75595ccdc743e5
+      internalID: -6673625117163307807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32780291af7d74f46ba1550762e01189
+      internalID: -2818007602952998986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848fec07953f4e14ebc6d31001c22490
+      internalID: 5665013207787995131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed77a7d3b1da9ec42a2078a616532427
+      internalID: 1447247083114183261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e76132901c3064a9077de41ea9f8b3
+      internalID: -8594319071552326984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_10
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522f29f967b61d4188ddb504f048339
+      internalID: 2905574977223169440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_11
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1238
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b3ab948a62ae44a0a82c9525a3be0
+      internalID: -3508182681234078206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b244365f3085c8940b188d7caaf44cc0
+      internalID: -7609233462189240778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1da91e8f3e014985ef61d81ad9548
+      internalID: -1487754020775464166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_14
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3418008d52816a418a262f45b2e54e8
+      internalID: 1631833698550272154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90d4eb628a8fa458fc98d0c2dd61d3
+      internalID: -2275802955329486391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_16
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d4a1ade055254a9b3b5ca5d010524
+      internalID: -5041820065648209964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_17
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 833
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e2d15cc36ed34fb364b107cdc57c0
+      internalID: -3013571686544042715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17bb3a0e3902446b8915b420558de4
+      internalID: -7238450056250159902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db49ada3e621964c8fed3169498be8e
+      internalID: 6865877363813245431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_20
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7553b2e594f9b445a2a7ee946cc591c
+      internalID: 7063704077243638212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f93088639ca23745baa7a05840f03ab
+      internalID: 5705658853761028414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_22
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cc2ac36ff3734288b246958d15cdc
+      internalID: 5890339203531032547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_23
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 428
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ef8ed622c83f44bffad829d6d790c
+      internalID: 20644971201058645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8559340f0bf4cb479bb65e5dff5ef87
+      internalID: -7459180377244058151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f14f27f2fb9149b2238b84264890e
+      internalID: 5710994532282741930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c51f7f46406374986b1f46f8159892
+      internalID: 171966864839467178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df12bc2a6fc594bb6c76c954b8ef3e
+      internalID: -7740754625977657530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_28
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554da2d12e3656548bb8acca51f5194d
+      internalID: -7469008897940006857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_nightStand-owIdle00_29
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 23
+        width: 309
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ac7015e837af4380cc749b1cd6b21
+      internalID: -7096853016412987954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c47ec25de964e464b91f75b303a660dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
